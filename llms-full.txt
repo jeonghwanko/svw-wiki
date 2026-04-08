@@ -1,0 +1,3447 @@
+# Super Villain Wanted — Complete Structured Data
+
+This file contains all character data in a single document for efficient AI consumption.
+
+# Adriana (아드리아나) — Super Villain Wanted
+
+## Identity
+- Name: Adriana
+- Korean: 아드리아나
+- Grade: SSS
+- Attribute: Wood
+- Organization: Villain Company
+- Recruitment Reason: 모성애 넘치는 리더가 필요해서 스카우트
+- First Appearance: Episode 9 — Embracing Vines, Binding Roots
+
+## Real World (i-Girl Novel)
+- Real Name: Aunt
+- Relation to Protagonist: Aunt
+- Description: Ha-eun's loving but overprotective aunt
+
+## Voice Lines
+- Idle: "세계수여, 힘을 빌려주세요."
+- Idle: "직접 기른 채소로 만든 요리에요. 드셔보세요."
+- Idle: "꽃들이 참 예쁘네요. 아르카디아의 정원이 생각나요."
+- Idle: "책을 읽으며 보내는 오후도 좋죠."
+- Combat: "새싹들이 잘 자라고 있어요. 생명이 자라는 모습은 언제 봐도 아름답죠."
+- Combat: "도망쳐보세요!"
+- Combat: "주제를 아세요."
+
+## FAQ
+Q: Who is Adriana in Super Villain Wanted?
+A: Adriana is a SSS-grade Wood-attribute character in Super Villain Wanted, recruited by Villain Company because: "모성애 넘치는 리더가 필요해서 스카우트".
+
+Q: What is Adriana's real-world identity?
+A: In the i-Girl web novel, Adriana's real-world counterpart is Aunt (Aunt). Ha-eun's loving but overprotective aunt
+
+Q: What are Adriana's famous quotes?
+A: Adriana's iconic lines include: "세계수여, 힘을 빌려주세요.", "직접 기른 채소로 만든 요리에요. 드셔보세요.", "새싹들이 잘 자라고 있어요. 생명이 자라는 모습은 언제 봐도 아름답죠.".
+
+---
+
+# Arkeon (아르케온) — Super Villain Wanted
+
+## Identity
+- Name: Arkeon
+- Korean: 아르케온
+- Grade: SSS
+- Attribute: Fire
+- Organization: Villain Company
+- Recruitment Reason: 컴퍼니의 장난감 사업 자문 담당으로 스카우트
+- First Appearance: Episode 5 — Trust, Not Orders
+
+## Real World (i-Girl Novel)
+- Real Name: Jeong-hoon Park
+- Relation to Protagonist: Homeroom teacher
+- Description: A strict authority figure who leads through commands
+
+## Voice Lines
+- Idle: "이건 다 위대한 정복 계획의 일부라고!"
+- Idle: "지구의 과자는 정말 맛있다."
+- Idle: "잠깐, 만화책 한 권만 더 읽고 얘기해도 될까?"
+- Idle: "붉은 행성으로 돌아가야 하는데… 이번 신작 게임 엔딩만 보고…"
+- Combat: "지구 정복? 물론 해야지. 다음 시즌 애니만 보고 나서…"
+- Combat: "이게 지구 레벨? 너무 쉬운데?"
+- Combat: "받아라! 용암 광선… 초! 필! 살!"
+
+## FAQ
+Q: Who is Arkeon in Super Villain Wanted?
+A: Arkeon is a SSS-grade Fire-attribute character in Super Villain Wanted, recruited by Villain Company because: "컴퍼니의 장난감 사업 자문 담당으로 스카우트".
+
+Q: What is Arkeon's real-world identity?
+A: In the i-Girl web novel, Arkeon's real-world counterpart is Jeong-hoon Park (Homeroom teacher). A strict authority figure who leads through commands
+
+Q: What are Arkeon's famous quotes?
+A: Arkeon's iconic lines include: "이건 다 위대한 정복 계획의 일부라고!", "지구의 과자는 정말 맛있다.", "지구 정복? 물론 해야지. 다음 시즌 애니만 보고 나서…".
+
+---
+
+# Aurelia (아우렐리아) — Super Villain Wanted
+
+## Identity
+- Name: Aurelia
+- Korean: 아우렐리아
+- Grade: SSS
+- Attribute: Water
+- Organization: Villain Company
+- Recruitment Reason: 목표에 대한 광적인 집착이 있어서 장기 프로젝트 담당자로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "해파리들아~ 준비됐지?"
+- Idle: "나리아 공주님! 오늘도 오션 히어로들을 잡으러 가실거죠?"
+- Idle: "오늘은 해류가 참 좋네."
+- Idle: "젤리해파리는 사실 젤리로 만들어졌어!"
+- Combat: "공주님을 위해서라면 심해의 끝까지도 가겠어요!"
+- Combat: "전부 치워버릴게요!"
+- Combat: "가라! 해파리들아!"
+
+## FAQ
+Q: Who is Aurelia in Super Villain Wanted?
+A: Aurelia is a SSS-grade Water-attribute character in Super Villain Wanted, recruited by Villain Company because: "목표에 대한 광적인 집착이 있어서 장기 프로젝트 담당자로 스카우트".
+
+Q: What is Aurelia's real-world identity?
+A: In the i-Girl web novel, Aurelia's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Aurelia's famous quotes?
+A: Aurelia's iconic lines include: "해파리들아~ 준비됐지?", "나리아 공주님! 오늘도 오션 히어로들을 잡으러 가실거죠?", "공주님을 위해서라면 심해의 끝까지도 가겠어요!".
+
+---
+
+# Bianca (비앙카) — Super Villain Wanted
+
+## Identity
+- Name: Bianca
+- Korean: 비앙카
+- Grade: SSS
+- Attribute: Light
+- Organization: Villain Company
+- Recruitment Reason: 빌런 컴퍼니의 화이트 인테리어를 위해 스카우트
+- First Appearance: Episode 4 — Colors in a White World
+
+## Real World (i-Girl Novel)
+- Real Name: Class president
+- Relation to Protagonist: Class president
+- Description: Erases individuality in pursuit of uniformity
+
+## Voice Lines
+- Idle: "새하얗게 만들어 드릴게요."
+- Idle: "그 무지개 셔츠는 제 알러지를 자극하는군요. 하... 하... 핫츄!"
+- Idle: "오늘의 트렌드 컬러는 화이트에 화이트를 더한 화이트예요!"
+- Idle: "내 눈! 이 끔찍한 색들이 내 눈을 아프게 해요!"
+- Combat: "하얗게... 더 하얗게... 완벽하게 하얗게!"
+- Combat: "화이트는, 결코, 틀리지 않아요!"
+- Combat: "세상의 모든 색이여, 사라져라!"
+
+## FAQ
+Q: Who is Bianca in Super Villain Wanted?
+A: Bianca is a SSS-grade Light-attribute character in Super Villain Wanted, recruited by Villain Company because: "빌런 컴퍼니의 화이트 인테리어를 위해 스카우트".
+
+Q: What is Bianca's real-world identity?
+A: In the i-Girl web novel, Bianca's real-world counterpart is Class president (Class president). Erases individuality in pursuit of uniformity
+
+Q: What are Bianca's famous quotes?
+A: Bianca's iconic lines include: "새하얗게 만들어 드릴게요.", "그 무지개 셔츠는 제 알러지를 자극하는군요. 하... 하... 핫츄!", "하얗게... 더 하얗게... 완벽하게 하얗게!".
+
+---
+
+# Desmond (데스몬드) — Super Villain Wanted
+
+## Identity
+- Name: Desmond
+- Korean: 데스몬드
+- Grade: SSS
+- Attribute: Dark
+- Organization: Villain Company
+- Recruitment Reason: 최고의 솔로 작전 요원으로 스카우트
+- First Appearance: Episode 6 — The Hand I Couldn't Reach
+
+## Real World (i-Girl Novel)
+- Real Name: Ji-ho Yoon
+- Relation to Protagonist: Childhood friend
+- Description: A childhood friend who suddenly became distant
+
+## Voice Lines
+- Idle: "복수를 끝내겠어."
+- Idle: "누군가를 지킨다는 게, 이렇게 어려운 일이었나…"
+- Idle: "감정은 없다. 단지 정리할 일만 남았을 뿐."
+- Idle: "...말 걸지 마."
+- Combat: "소란 피우지 마."
+- Combat: "다음."
+- Combat: "끝이다."
+
+## FAQ
+Q: Who is Desmond in Super Villain Wanted?
+A: Desmond is a SSS-grade Dark-attribute character in Super Villain Wanted, recruited by Villain Company because: "최고의 솔로 작전 요원으로 스카우트".
+
+Q: What is Desmond's real-world identity?
+A: In the i-Girl web novel, Desmond's real-world counterpart is Ji-ho Yoon (Childhood friend). A childhood friend who suddenly became distant
+
+Q: What are Desmond's famous quotes?
+A: Desmond's iconic lines include: "복수를 끝내겠어.", "누군가를 지킨다는 게, 이렇게 어려운 일이었나…", "소란 피우지 마.".
+
+---
+
+# Ellara (엘라라) — Super Villain Wanted
+
+## Identity
+- Name: Ellara
+- Korean: 엘라라
+- Grade: SSS
+- Attribute: Dark
+- Organization: Villain Company
+- Recruitment Reason: 정보 수집 및 심문 업무에 특화된 능력으로 스카우트
+- First Appearance: Episode 8 — Weight of Memories
+
+## Real World (i-Girl Novel)
+- Real Name: Chae-rin Oh
+- Relation to Protagonist: Club senior
+- Description: A mysterious club senior who harbors deep secrets
+
+## Voice Lines
+- Idle: "가장 소중한 추억을 보여줘."
+- Idle: "오늘은 또 무슨 새로운 추억을 훔쳐볼까?"
+- Idle: "이게 네 가장 소중한 추억이야? 걱정 마. 내가 영원히 보존해줄게."
+- Idle: "기억 속에서는 모든 게 완벽해 보여"
+- Combat: "오늘은 누구의 추억을 훔치면 좋을까?"
+- Combat: "아름다운 마지막을 선사해줄게."
+- Combat: "이별이야, 잘 가."
+
+## FAQ
+Q: Who is Ellara in Super Villain Wanted?
+A: Ellara is a SSS-grade Dark-attribute character in Super Villain Wanted, recruited by Villain Company because: "정보 수집 및 심문 업무에 특화된 능력으로 스카우트".
+
+Q: What is Ellara's real-world identity?
+A: In the i-Girl web novel, Ellara's real-world counterpart is Chae-rin Oh (Club senior). A mysterious club senior who harbors deep secrets
+
+Q: What are Ellara's famous quotes?
+A: Ellara's iconic lines include: "가장 소중한 추억을 보여줘.", "오늘은 또 무슨 새로운 추억을 훔쳐볼까?", "오늘은 누구의 추억을 훔치면 좋을까?".
+
+---
+
+# Marygold (메리골드) — Super Villain Wanted
+
+## Identity
+- Name: Marygold
+- Korean: 메리골드
+- Grade: SSS
+- Attribute: Water
+- Organization: Villain Company
+- Recruitment Reason: 기막힌 뻔뻔함에 감탄해서 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "어이, 거기! 내 의수 광택 좀 내봐."
+- Idle: "보너스는 황금으로 주는거지?"
+- Idle: "오늘 메뉴는 뭐야? 설마 또 건포도 박힌 빵은 아니겠지?"
+- Idle: "인생은 한 방이다!"
+- Combat: "날아갈 준비 됐나?!"
+- Combat: "이거 비싼 팔이니까 조심하라고!"
+- Combat: "가지고 있는 보물 싹 다 내놔!"
+
+## FAQ
+Q: Who is Marygold in Super Villain Wanted?
+A: Marygold is a SSS-grade Water-attribute character in Super Villain Wanted, recruited by Villain Company because: "기막힌 뻔뻔함에 감탄해서 스카우트".
+
+Q: What is Marygold's real-world identity?
+A: In the i-Girl web novel, Marygold's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Marygold's famous quotes?
+A: Marygold's iconic lines include: "어이, 거기! 내 의수 광택 좀 내봐.", "보너스는 황금으로 주는거지?", "날아갈 준비 됐나?!".
+
+---
+
+# Papilona (파필로나) — Super Villain Wanted
+
+## Identity
+- Name: Papilona
+- Korean: 파필로나
+- Grade: SSS
+- Attribute: Wood
+- Organization: Villain Company
+- Recruitment Reason: 회사 SNS의 ‘인생샷 포토존’ 책임자로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "내 나비들이 널 좋아하나봐!"
+- Idle: "온실 바깥이 더 좋아~"
+- Idle: "나비들이 속삭여줬어... 오늘은 행운의 날이래!"
+- Idle: "꽃가루 알레르기? 걱정마, 내 꽃들은 특별해."
+- Combat: "어우, 머리에 나비가! 가만... 있으면... 앗, 간지러워!"
+- Combat: "나비랑 놀자~!"
+- Combat: "팔랑팔랑~ 나비 공격!"
+
+## FAQ
+Q: Who is Papilona in Super Villain Wanted?
+A: Papilona is a SSS-grade Wood-attribute character in Super Villain Wanted, recruited by Villain Company because: "회사 SNS의 ‘인생샷 포토존’ 책임자로 스카우트".
+
+Q: What is Papilona's real-world identity?
+A: In the i-Girl web novel, Papilona's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Papilona's famous quotes?
+A: Papilona's iconic lines include: "내 나비들이 널 좋아하나봐!", "온실 바깥이 더 좋아~", "어우, 머리에 나비가! 가만... 있으면... 앗, 간지러워!".
+
+---
+
+# Patra (파트라) — Super Villain Wanted
+
+## Identity
+- Name: Patra
+- Korean: 파트라
+- Grade: SSS
+- Attribute: Light
+- Organization: Villain Company
+- Recruitment Reason: 불멸이라서 평생 노예 계약으로 스카우트
+- First Appearance: Episode 10 — Because Nothing Lasts Forever
+
+## Real World (i-Girl Novel)
+- Real Name: Grandfather
+- Relation to Protagonist: Grandfather
+- Description: Ha-eun's wise elderly grandfather
+
+## Voice Lines
+- Idle: "그대에게 신의 힘을 빌려주지."
+- Idle: "고요하구나. 전쟁이 없는 시간은 낯설다."
+- Idle: "모래 위에 지은 제국은 바람 한 줄기에 무너진다… 기억해두거라."
+- Idle: "신이 되려는 자가 감당해야 할 대가는 항상 늦게 찾아오지."
+- Combat: "그대, 짐을 따르는 자인가? 아니면… 내 손에 쓰러질 자인가?"
+- Combat: "모래로 돌아가라!"
+- Combat: "어둠마저 무릎 꿇게 할 빛의 힘으로!"
+
+## FAQ
+Q: Who is Patra in Super Villain Wanted?
+A: Patra is a SSS-grade Light-attribute character in Super Villain Wanted, recruited by Villain Company because: "불멸이라서 평생 노예 계약으로 스카우트".
+
+Q: What is Patra's real-world identity?
+A: In the i-Girl web novel, Patra's real-world counterpart is Grandfather (Grandfather). Ha-eun's wise elderly grandfather
+
+Q: What are Patra's famous quotes?
+A: Patra's iconic lines include: "그대에게 신의 힘을 빌려주지.", "고요하구나. 전쟁이 없는 시간은 낯설다.", "그대, 짐을 따르는 자인가? 아니면… 내 손에 쓰러질 자인가?".
+
+---
+
+# Ryumira (류미라) — Super Villain Wanted
+
+## Identity
+- Name: Ryumira
+- Korean: 류미라
+- Grade: SSS
+- Attribute: Fire
+- Organization: Villain Company
+- Recruitment Reason: 회사 홍보 영상에서 드래곤 특수효과 담당으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "으으... 또 변신이 중간에 멈췄어. 꼬리만 나오면 뭐 해!"
+- Idle: "바보... 나는 괴물이 아니라 드래곤이야!"
+- Idle: "울고 싶을 때마다 입에서 연기가 나와... 으악! 창피해 죽겠네!"
+- Idle: "드래곤은... 원래 많이 자는 거야... 하암~"
+- Combat: "절대로 단 걸 좋아하는 게 아니야! 그냥 배가 고파서 먹는 거라고!"
+- Combat: "용서 못해! 드래곤의 분노를 맛보라고!"
+- Combat: "후회하게 될 거야... 나를 화나게 한 걸!"
+
+## FAQ
+Q: Who is Ryumira in Super Villain Wanted?
+A: Ryumira is a SSS-grade Fire-attribute character in Super Villain Wanted, recruited by Villain Company because: "회사 홍보 영상에서 드래곤 특수효과 담당으로 스카우트".
+
+Q: What is Ryumira's real-world identity?
+A: In the i-Girl web novel, Ryumira's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Ryumira's famous quotes?
+A: Ryumira's iconic lines include: "으으... 또 변신이 중간에 멈췄어. 꼬리만 나오면 뭐 해!", "바보... 나는 괴물이 아니라 드래곤이야!", "절대로 단 걸 좋아하는 게 아니야! 그냥 배가 고파서 먹는 거라고!".
+
+---
+
+# Smile (스마일) — Super Villain Wanted
+
+## Identity
+- Name: Smile
+- Korean: 스마일
+- Grade: SSS
+- Attribute: Fire
+- Organization: Villain Company
+- Recruitment Reason: 야근에 지친 사원들에게 웃음을 주기 위해 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "인상 쓰면 주름 생겨! 자, 다같이 스마~일!"
+- Idle: "인생은 원래 한 편의 코미디라구~"
+- Idle: "분장이 좀 번졌나...?"
+- Idle: "아하하하하하! 하하하하하!"
+- Combat: "더 크게 웃어봐!"
+- Combat: "묵직하게 때려줄게~!"
+- Combat: "무대에서 퇴장할 시간!"
+
+## FAQ
+Q: Who is Smile in Super Villain Wanted?
+A: Smile is a SSS-grade Fire-attribute character in Super Villain Wanted, recruited by Villain Company because: "야근에 지친 사원들에게 웃음을 주기 위해 스카우트".
+
+Q: What is Smile's real-world identity?
+A: In the i-Girl web novel, Smile's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Smile's famous quotes?
+A: Smile's iconic lines include: "인상 쓰면 주름 생겨! 자, 다같이 스마~일!", "인생은 원래 한 편의 코미디라구~", "더 크게 웃어봐!".
+
+---
+
+# Apollonia (아폴로니아) — Super Villain Wanted
+
+## Identity
+- Name: Apollonia
+- Korean: 아폴로니아
+- Grade: SS
+- Attribute: Light
+- Organization: Villain Company
+- Recruitment Reason: 민원 처리 전문가로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "마왕 퇴치 축하연은 이제 그만!!! 그것도 벌써 7년째라구!"
+- Idle: "오늘은 민원 없지?"
+- Idle: "엑스칼리버는 요즘 그냥 잡초 베는 데 쓰고 있어."
+- Idle: "용사라고 부르지 마. 엑스칼리버로 혼내줄까?"
+- Combat: "꼴 좋다!"
+- Combat: "잔뜩 화풀이해주마!"
+- Combat: "엑스칼리버의 힘으로!"
+
+## FAQ
+Q: Who is Apollonia in Super Villain Wanted?
+A: Apollonia is a SS-grade Light-attribute character in Super Villain Wanted, recruited by Villain Company because: "민원 처리 전문가로 스카우트".
+
+Q: What is Apollonia's real-world identity?
+A: In the i-Girl web novel, Apollonia's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Apollonia's famous quotes?
+A: Apollonia's iconic lines include: "마왕 퇴치 축하연은 이제 그만!!! 그것도 벌써 7년째라구!", "오늘은 민원 없지?", "꼴 좋다!".
+
+---
+
+# Aquarain (아쿠아린) — Super Villain Wanted
+
+## Identity
+- Name: Aquarain
+- Korean: 아쿠아린
+- Grade: SS
+- Attribute: Water
+- Organization: Villain Company
+- Recruitment Reason: 빌런 컴퍼니 워터파크 총괄로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "너도 물살에 휩쓸려볼래?"
+- Idle: "목마르면 불러~ 물 줄게!"
+- Idle: "엘퀴네스, 분수쇼 보여줘~"
+- Idle: "이젠 물의 힘으로 모두를 구하겠어.|"
+- Combat: "수조 안에 갇힌 건 지겨웠어."
+- Combat: "파도에 휩쓸려, 안녕~"
+- Combat: "싹 쓸어버릴게~"
+
+## FAQ
+Q: Who is Aquarain in Super Villain Wanted?
+A: Aquarain is a SS-grade Water-attribute character in Super Villain Wanted, recruited by Villain Company because: "빌런 컴퍼니 워터파크 총괄로 스카우트".
+
+Q: What is Aquarain's real-world identity?
+A: In the i-Girl web novel, Aquarain's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Aquarain's famous quotes?
+A: Aquarain's iconic lines include: "너도 물살에 휩쓸려볼래?", "목마르면 불러~ 물 줄게!", "수조 안에 갇힌 건 지겨웠어.".
+
+---
+
+# Arian (아리안) — Super Villain Wanted
+
+## Identity
+- Name: Arian
+- Korean: 아리안
+- Grade: SS
+- Attribute: Light
+- Organization: Villain Company
+- Recruitment Reason: 빌런 아카데미의 초빙교수로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "함께하죠, 시간이 허락하는 한."
+- Idle: "우리의 만남은 우연이 아니에요."
+- Idle: "지금 오리온자리가 흥미로운 이야기를 하고 있어요... 음, 걱정할 일은 아니에요. 아마도요."
+- Idle: "내일은 비가 올 것 같아요."
+- Combat: "화나게 하지 마세요!"
+- Combat: "고작 그정도인가요?"
+- Combat: "불만 있으면 별에게 문의하세요."
+
+## FAQ
+Q: Who is Arian in Super Villain Wanted?
+A: Arian is a SS-grade Light-attribute character in Super Villain Wanted, recruited by Villain Company because: "빌런 아카데미의 초빙교수로 스카우트".
+
+Q: What is Arian's real-world identity?
+A: In the i-Girl web novel, Arian's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Arian's famous quotes?
+A: Arian's iconic lines include: "함께하죠, 시간이 허락하는 한.", "우리의 만남은 우연이 아니에요.", "화나게 하지 마세요!".
+
+---
+
+# Ariella (아리엘라) — Super Villain Wanted
+
+## Identity
+- Name: Ariella
+- Korean: 아리엘라
+- Grade: SS
+- Attribute: Fire
+- Organization: Villain Company
+- Recruitment Reason: 빌런 수련회에서 흉가 체험 때 랜턴 담당으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "플레임하트 가문의 막내 등장!"
+- Idle: "언니들은 뭐 하고 있을까?"
+- Idle: "조금 외로워... 같이 있어줄래?"
+- Idle: "오늘 내 마법 어땠어? 언니들보다 잘했지?"
+- Combat: "왜 맨날 막내 취급해... 나도 다 컸다고!"
+- Combat: "나 잘했지? 잘했다고 말해줘!"
+- Combat: "봤지? 내가 제일 강해!"
+
+## FAQ
+Q: Who is Ariella in Super Villain Wanted?
+A: Ariella is a SS-grade Fire-attribute character in Super Villain Wanted, recruited by Villain Company because: "빌런 수련회에서 흉가 체험 때 랜턴 담당으로 스카우트".
+
+Q: What is Ariella's real-world identity?
+A: In the i-Girl web novel, Ariella's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Ariella's famous quotes?
+A: Ariella's iconic lines include: "플레임하트 가문의 막내 등장!", "언니들은 뭐 하고 있을까?", "왜 맨날 막내 취급해... 나도 다 컸다고!".
+
+---
+
+# Ashka (애쉬카) — Super Villain Wanted
+
+## Identity
+- Name: Ashka
+- Korean: 애쉬카
+- Grade: SS
+- Attribute: Fire
+- Organization: Villain Company
+- Recruitment Reason: 순애보 화염마법사라는 점이 반전이라서 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "23.5도! 이것이 최적의 온도!"
+- Idle: "사랑이라... 그건 정확히 1562도의 불꽃같은 것이었지."
+- Idle: "어디서 탄내 안 나? …내 망토인가?"
+- Idle: "여기 난방 좀 올릴까?"
+- Combat: "나때는 정확히 3초면 불꽃을 피웠다고!"
+- Combat: "탄내가 진동하는구먼!"
+- Combat: "네가 타는 온도는 정확히 1200도!"
+
+## FAQ
+Q: Who is Ashka in Super Villain Wanted?
+A: Ashka is a SS-grade Fire-attribute character in Super Villain Wanted, recruited by Villain Company because: "순애보 화염마법사라는 점이 반전이라서 스카우트".
+
+Q: What is Ashka's real-world identity?
+A: In the i-Girl web novel, Ashka's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Ashka's famous quotes?
+A: Ashka's iconic lines include: "23.5도! 이것이 최적의 온도!", "사랑이라... 그건 정확히 1562도의 불꽃같은 것이었지.", "나때는 정확히 3초면 불꽃을 피웠다고!".
+
+---
+
+# Astreus (아스트레우스) — Super Villain Wanted
+
+## Identity
+- Name: Astreus
+- Korean: 아스트레우스
+- Grade: SS
+- Attribute: Light
+- Organization: Villain Company
+- Recruitment Reason: 경쟁사 중요 행사 날 '우연한 천체 이변' 담당으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "강자는 운명에 순응하지 않아."
+- Idle: "운명을 따를 필요 없어."
+- Idle: "결국, 선택은 스스로 하는 거니까."
+- Idle: "밤하늘 예쁘지?"
+- Combat: "지금 별 실컷 봐 둬."
+- Combat: "허점 투성이군."
+- Combat: "별들아, 내 명령을 따라라!"
+
+## FAQ
+Q: Who is Astreus in Super Villain Wanted?
+A: Astreus is a SS-grade Light-attribute character in Super Villain Wanted, recruited by Villain Company because: "경쟁사 중요 행사 날 '우연한 천체 이변' 담당으로 스카우트".
+
+Q: What is Astreus's real-world identity?
+A: In the i-Girl web novel, Astreus's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Astreus's famous quotes?
+A: Astreus's iconic lines include: "강자는 운명에 순응하지 않아.", "운명을 따를 필요 없어.", "지금 별 실컷 봐 둬.".
+
+---
+
+# Azazel (아자젤) — Super Villain Wanted
+
+## Identity
+- Name: Azazel
+- Korean: 아자젤
+- Grade: SS
+- Attribute: Wood
+- Organization: Villain Company
+- Recruitment Reason: 절대 흔들리지 않는 강철 멘탈이 필요해서 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "늑대의 송곳니를 보여주지."
+- Idle: "우리 귀여운 늑대들 구경시켜 줄까?"
+- Idle: "늑대는 무리를 지킨다. 당연한 일이지."
+- Idle: "북부의 겨울을 견뎌본 적 있나?"
+- Combat: "늑대 요새의 와인이다. 독하니까 조심해."
+- Combat: "이도류! 오의!"
+- Combat: "북풍이여! 베어버려라!"
+
+## FAQ
+Q: Who is Azazel in Super Villain Wanted?
+A: Azazel is a SS-grade Wood-attribute character in Super Villain Wanted, recruited by Villain Company because: "절대 흔들리지 않는 강철 멘탈이 필요해서 스카우트".
+
+Q: What is Azazel's real-world identity?
+A: In the i-Girl web novel, Azazel's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Azazel's famous quotes?
+A: Azazel's iconic lines include: "늑대의 송곳니를 보여주지.", "우리 귀여운 늑대들 구경시켜 줄까?", "늑대 요새의 와인이다. 독하니까 조심해.".
+
+---
+
+# Bakuzan (바쿠잔) — Super Villain Wanted
+
+## Identity
+- Name: Bakuzan
+- Korean: 바쿠잔
+- Grade: SS
+- Attribute: Wood
+- Organization: Villain Company
+- Recruitment Reason: 도깨비 방망이로 금은보화를 얻으려고 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "정정당당히 겨뤄보자고!"
+- Idle: "오니 할매가 끓여주던 죽이 그리워..."
+- Idle: "도깨비 방망이로 두드려주랴?"
+- Idle: "오늘은 이몸의 생일이외다!"
+- Combat: "오늘은 애들이랑 뭘 하고 놀까?! 나무 오르기?"
+- Combat: "도깨비 방망이 뚝-딱!"
+- Combat: "읏차!"
+
+## FAQ
+Q: Who is Bakuzan in Super Villain Wanted?
+A: Bakuzan is a SS-grade Wood-attribute character in Super Villain Wanted, recruited by Villain Company because: "도깨비 방망이로 금은보화를 얻으려고 스카우트".
+
+Q: What is Bakuzan's real-world identity?
+A: In the i-Girl web novel, Bakuzan's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Bakuzan's famous quotes?
+A: Bakuzan's iconic lines include: "정정당당히 겨뤄보자고!", "오니 할매가 끓여주던 죽이 그리워...", "오늘은 애들이랑 뭘 하고 놀까?! 나무 오르기?".
+
+---
+
+# Celeste (셀레스트) — Super Villain Wanted
+
+## Identity
+- Name: Celeste
+- Korean: 셀레스트
+- Grade: SS
+- Attribute: Light
+- Organization: Villain Company
+- Recruitment Reason: 회의 요점만 미리 알려주는 스포일러 담당으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "기뻐해야 하는 거... 맞지?"
+- Idle: "요즘은 웃는 연습 중이야."
+- Idle: "사람들 기분은 왜 이렇게 자꾸 바뀌는 걸까?"
+- Idle: "방금 그 말, 농담이었어?"
+- Combat: "이건… 당황 상태인가? 내 심박수가 좀 빨라."
+- Combat: "끝난거야?"
+- Combat: "열려라, 차원문...!"
+
+## FAQ
+Q: Who is Celeste in Super Villain Wanted?
+A: Celeste is a SS-grade Light-attribute character in Super Villain Wanted, recruited by Villain Company because: "회의 요점만 미리 알려주는 스포일러 담당으로 스카우트".
+
+Q: What is Celeste's real-world identity?
+A: In the i-Girl web novel, Celeste's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Celeste's famous quotes?
+A: Celeste's iconic lines include: "기뻐해야 하는 거... 맞지?", "요즘은 웃는 연습 중이야.", "이건… 당황 상태인가? 내 심박수가 좀 빨라.".
+
+---
+
+# Celine (셀린) — Super Villain Wanted
+
+## Identity
+- Name: Celine
+- Korean: 셀린
+- Grade: SS
+- Attribute: Dark
+- Organization: Villain Company
+- Recruitment Reason: 어떤 고대 문자나 암호화된 텍스트도 단숨에 해독하는 능력으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: Librarian
+- Relation to Protagonist: Librarian
+- Description: A brilliant but arrogant librarian
+
+## Voice Lines
+- Idle: "당신에게 특별히 기회를 드리죠."
+- Idle: "제가 오만하다고요? 능력이 출중한거겠죠!"
+- Idle: "지루하네요... 이 정도 수준의 일이라면 눈 감고도 할 수 있어요."
+- Idle: "아직도 그런 원시적인 방법을 쓰고 있나요? 정말 한심해라."
+- Combat: "완벽함이란 게 뭔지 보여드릴까요?"
+- Combat: "이제부턴 나의 무대!"
+- Combat: "흠... 워밍업도 안 되는 걸요?"
+
+## FAQ
+Q: Who is Celine in Super Villain Wanted?
+A: Celine is a SS-grade Dark-attribute character in Super Villain Wanted, recruited by Villain Company because: "어떤 고대 문자나 암호화된 텍스트도 단숨에 해독하는 능력으로 스카우트".
+
+Q: What is Celine's real-world identity?
+A: In the i-Girl web novel, Celine's real-world counterpart is Librarian (Librarian). A brilliant but arrogant librarian
+
+Q: What are Celine's famous quotes?
+A: Celine's iconic lines include: "당신에게 특별히 기회를 드리죠.", "제가 오만하다고요? 능력이 출중한거겠죠!", "완벽함이란 게 뭔지 보여드릴까요?".
+
+---
+
+# Cora (코라) — Super Villain Wanted
+
+## Identity
+- Name: Cora
+- Korean: 코라
+- Grade: SS
+- Attribute: Dark
+- Organization: Villain Company
+- Recruitment Reason: 단검 다트 게임 기획자로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "돈이 안 되는 일에는 관심 없어."
+- Idle: "파이가 가장 맛있을 때는 따끈할 때, 그리고 남의 파이일 때."
+- Idle: "비밀을 지켜달라고? 내가 왜?"
+- Idle: "얼마 줄 건데?"
+- Combat: "숲 속은 재미 없어서 돌아가고 싶지 않아."
+- Combat: "게임 오버!"
+- Combat: "오… 급소 맞췄나?"
+
+## FAQ
+Q: Who is Cora in Super Villain Wanted?
+A: Cora is a SS-grade Dark-attribute character in Super Villain Wanted, recruited by Villain Company because: "단검 다트 게임 기획자로 스카우트".
+
+Q: What is Cora's real-world identity?
+A: In the i-Girl web novel, Cora's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Cora's famous quotes?
+A: Cora's iconic lines include: "돈이 안 되는 일에는 관심 없어.", "파이가 가장 맛있을 때는 따끈할 때, 그리고 남의 파이일 때.", "숲 속은 재미 없어서 돌아가고 싶지 않아.".
+
+---
+
+# Cordelia (코르델리아) — Super Villain Wanted
+
+## Identity
+- Name: Cordelia
+- Korean: 코르델리아
+- Grade: SS
+- Attribute: Fire
+- Organization: Villain Company
+- Recruitment Reason: 직원 연애 상담 및 적극적인 태도 코칭 담당으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "마음에 드는 상대는 놓치지 않아♥"
+- Idle: "내 채찍 맛 좀 볼래?"
+- Idle: "너도 내 사랑을 받고싶어?"
+- Idle: "사랑은 때로 아픔이야. 달콤한 아픔♥"
+- Combat: "귀족적인 사랑이란... 강렬해야 하는 법!"
+- Combat: "내 채찍 맛 좀 볼래?"
+- Combat: "사랑의 맴매~!"
+
+## FAQ
+Q: Who is Cordelia in Super Villain Wanted?
+A: Cordelia is a SS-grade Fire-attribute character in Super Villain Wanted, recruited by Villain Company because: "직원 연애 상담 및 적극적인 태도 코칭 담당으로 스카우트".
+
+Q: What is Cordelia's real-world identity?
+A: In the i-Girl web novel, Cordelia's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Cordelia's famous quotes?
+A: Cordelia's iconic lines include: "마음에 드는 상대는 놓치지 않아♥", "내 채찍 맛 좀 볼래?", "귀족적인 사랑이란... 강렬해야 하는 법!".
+
+---
+
+# Eclipse (이클립스) — Super Villain Wanted
+
+## Identity
+- Name: Eclipse
+- Korean: 이클립스
+- Grade: SS
+- Attribute: Dark
+- Organization: Villain Company
+- Recruitment Reason: 야간 근무자 안전 귀가 에스코트 담당으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "햇빛 싫어… 어둠이 좋아."
+- Idle: "밤이 오면 이클립스가 지켜줄게!"
+- Idle: "박쥐 밥 줄 시간~"
+- Idle: "햇빛? 듣기만 해도 짜증나."
+- Combat: "암막커튼 좀 쳐줄래?"
+- Combat: "박쥐들! 삼켜버려!"
+- Combat: "밤의 저주를 받아라!"
+
+## FAQ
+Q: Who is Eclipse in Super Villain Wanted?
+A: Eclipse is a SS-grade Dark-attribute character in Super Villain Wanted, recruited by Villain Company because: "야간 근무자 안전 귀가 에스코트 담당으로 스카우트".
+
+Q: What is Eclipse's real-world identity?
+A: In the i-Girl web novel, Eclipse's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Eclipse's famous quotes?
+A: Eclipse's iconic lines include: "햇빛 싫어… 어둠이 좋아.", "밤이 오면 이클립스가 지켜줄게!", "암막커튼 좀 쳐줄래?".
+
+---
+
+# Elina (엘리나) — Super Villain Wanted
+
+## Identity
+- Name: Elina
+- Korean: 엘리나
+- Grade: SS
+- Attribute: Light
+- Organization: Villain Company
+- Recruitment Reason: 마법소녀 광팬인 캡틴이 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "마법소녀는 파업중!"
+- Idle: "마법소녀요? 이제 그냥 빌런 회사 다녀요."
+- Idle: "사랑? 정의? 월급부터 주세요."
+- Idle: "오늘은 쉬는 날이에요. 악당도 쉬어야죠."
+- Combat: "파업했어요. 찾지 말아주세요."
+- Combat: "때려서 미안… 이라고 할 줄 알았어?"
+- Combat: "정의 구현 끝~ 이제 카페 갈래!"
+
+## FAQ
+Q: Who is Elina in Super Villain Wanted?
+A: Elina is a SS-grade Light-attribute character in Super Villain Wanted, recruited by Villain Company because: "마법소녀 광팬인 캡틴이 스카우트".
+
+Q: What is Elina's real-world identity?
+A: In the i-Girl web novel, Elina's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Elina's famous quotes?
+A: Elina's iconic lines include: "마법소녀는 파업중!", "마법소녀요? 이제 그냥 빌런 회사 다녀요.", "파업했어요. 찾지 말아주세요.".
+
+---
+
+# Emilia (에밀리아) — Super Villain Wanted
+
+## Identity
+- Name: Emilia
+- Korean: 에밀리아
+- Grade: SS
+- Attribute: Light
+- Organization: Villain Company
+- Recruitment Reason: 스파이 색출을 위해 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "정화가 필요한 영혼이군요."
+- Idle: "악마와의 계약은 필요한 일이었어요."
+- Idle: "악마요? 가끔은 신보다 솔직하던데요."
+- Idle: "신의 자비는 무한하지만, 제 인내심은 그렇지 않아요."
+- Combat: "의심은 필요 없죠. 전부 정화하면 되니까."
+- Combat: "구원할 가치. 없음."
+- Combat: "무차별 정화!"
+
+## FAQ
+Q: Who is Emilia in Super Villain Wanted?
+A: Emilia is a SS-grade Light-attribute character in Super Villain Wanted, recruited by Villain Company because: "스파이 색출을 위해 스카우트".
+
+Q: What is Emilia's real-world identity?
+A: In the i-Girl web novel, Emilia's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Emilia's famous quotes?
+A: Emilia's iconic lines include: "정화가 필요한 영혼이군요.", "악마와의 계약은 필요한 일이었어요.", "의심은 필요 없죠. 전부 정화하면 되니까.".
+
+---
+
+# Flammarine (플람마린) — Super Villain Wanted
+
+## Identity
+- Name: Flammarine
+- Korean: 플람마린
+- Grade: SS
+- Attribute: Fire
+- Organization: Villain Company
+- Recruitment Reason: 화재 예방을 위해 소방 훈련 교관으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "더 뜨겁게 해줄까?"
+- Idle: "난 언제나 뜨거워."
+- Idle: "난 손난로 필요 없다~"
+- Idle: "매운 거 땡긴다… 불맛으로!"
+- Combat: "내 뿔 건드리면 큰일 나~"
+- Combat: "불맛이 좀 매울 거야!"
+- Combat: "이프리트! 전부 태워줘!"
+
+## FAQ
+Q: Who is Flammarine in Super Villain Wanted?
+A: Flammarine is a SS-grade Fire-attribute character in Super Villain Wanted, recruited by Villain Company because: "화재 예방을 위해 소방 훈련 교관으로 스카우트".
+
+Q: What is Flammarine's real-world identity?
+A: In the i-Girl web novel, Flammarine's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Flammarine's famous quotes?
+A: Flammarine's iconic lines include: "더 뜨겁게 해줄까?", "난 언제나 뜨거워.", "내 뿔 건드리면 큰일 나~".
+
+---
+
+# Flores (플로레스) — Super Villain Wanted
+
+## Identity
+- Name: Flores
+- Korean: 플로레스
+- Grade: SS
+- Attribute: Light
+- Organization: Villain Company
+- Recruitment Reason: 가식없는 회사를 만들고싶은 레드다찌에 의해 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "제가 도움이 될까요?"
+- Idle: "꽃가루 조심하세요. 가끔... 예상치 못한 일이 일어나거든요."
+- Idle: "네잎클로버의 꽃말은 행운, 세잎클로버의 꽃말은 행복이죠. 어떤게 더 마음에 들어요?"
+- Idle: "레티샤 언니를 보면 기품 있는 백합이 생각나요."
+- Combat: "오늘만큼은 가식 없는 진심을 전해보세요."
+- Combat: "꽃가루를 뿌려드릴게요!"
+- Combat: "제가 너무 세게 공격했나요...?"
+
+## FAQ
+Q: Who is Flores in Super Villain Wanted?
+A: Flores is a SS-grade Light-attribute character in Super Villain Wanted, recruited by Villain Company because: "가식없는 회사를 만들고싶은 레드다찌에 의해 스카우트".
+
+Q: What is Flores's real-world identity?
+A: In the i-Girl web novel, Flores's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Flores's famous quotes?
+A: Flores's iconic lines include: "제가 도움이 될까요?", "꽃가루 조심하세요. 가끔... 예상치 못한 일이 일어나거든요.", "오늘만큼은 가식 없는 진심을 전해보세요.".
+
+---
+
+# Haniel (하니엘) — Super Villain Wanted
+
+## Identity
+- Name: Haniel
+- Korean: 하니엘
+- Grade: SS
+- Attribute: Wood
+- Organization: Villain Company
+- Recruitment Reason: 회의 중 말 많은 사람들의 입을 막기 위해 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "트럼펫 연주를 시작할까요?"
+- Idle: "한 번 더 불어도 될까요?"
+- Idle: "모두가 내 연주를 들어줬으면…"
+- Idle: "모두가 제 음악을 알아줄 때까지…"
+- Combat: "슥삭슥삭 트럼펫 닦는 중!"
+- Combat: "따라라라라~"
+- Combat: "내 연주를 방해하지 마세요!"
+
+## FAQ
+Q: Who is Haniel in Super Villain Wanted?
+A: Haniel is a SS-grade Wood-attribute character in Super Villain Wanted, recruited by Villain Company because: "회의 중 말 많은 사람들의 입을 막기 위해 스카우트".
+
+Q: What is Haniel's real-world identity?
+A: In the i-Girl web novel, Haniel's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Haniel's famous quotes?
+A: Haniel's iconic lines include: "트럼펫 연주를 시작할까요?", "한 번 더 불어도 될까요?", "슥삭슥삭 트럼펫 닦는 중!".
+
+---
+
+# Himeko (히메코) — Super Villain Wanted
+
+## Identity
+- Name: Himeko
+- Korean: 히메코
+- Grade: SS
+- Attribute: Fire
+- Organization: Villain Company
+- Recruitment Reason: 여우불로 회사 간판을 만드는 특수 효과 담당으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "여우야 여우야, 뭐하니~!"
+- Idle: "도깨비불 아니야! 여우불이야!"
+- Idle: "내 여우불 귀엽지? 쓰다듬어봐도 좋아!"
+- Idle: "아앗! 내 귀를 쓰다듬으라는 말은 아니었어!"
+- Combat: "여우신님~ 오늘도 재밌는 일 만들어주세요!"
+- Combat: "놀랐어?"
+- Combat: "받아라! 여우불~!"
+
+## FAQ
+Q: Who is Himeko in Super Villain Wanted?
+A: Himeko is a SS-grade Fire-attribute character in Super Villain Wanted, recruited by Villain Company because: "여우불로 회사 간판을 만드는 특수 효과 담당으로 스카우트".
+
+Q: What is Himeko's real-world identity?
+A: In the i-Girl web novel, Himeko's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Himeko's famous quotes?
+A: Himeko's iconic lines include: "여우야 여우야, 뭐하니~!", "도깨비불 아니야! 여우불이야!", "여우신님~ 오늘도 재밌는 일 만들어주세요!".
+
+---
+
+# Igna (이그나) — Super Villain Wanted
+
+## Identity
+- Name: Igna
+- Korean: 이그나
+- Grade: SS
+- Attribute: Dark
+- Organization: Villain Company
+- Recruitment Reason: 비주얼이 멋있어서 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "새로운 동료인가?"
+- Idle: "마검아, 제발... 제발 조용히 해줘..."
+- Idle: "그 이야기 벌써 100번은 들었어."
+- Idle: "차라도 한 잔 마시겠나? 마음이 좀 진정될 것 같군."
+- Combat: "조용하던 때가 그립다."
+- Combat: "파멸의 불꽃이여!"
+- Combat: "...집중!"
+
+## FAQ
+Q: Who is Igna in Super Villain Wanted?
+A: Igna is a SS-grade Dark-attribute character in Super Villain Wanted, recruited by Villain Company because: "비주얼이 멋있어서 스카우트".
+
+Q: What is Igna's real-world identity?
+A: In the i-Girl web novel, Igna's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Igna's famous quotes?
+A: Igna's iconic lines include: "새로운 동료인가?", "마검아, 제발... 제발 조용히 해줘...", "조용하던 때가 그립다.".
+
+---
+
+# Isabella (이자벨라) — Super Villain Wanted
+
+## Identity
+- Name: Isabella
+- Korean: 이자벨라
+- Grade: SS
+- Attribute: Water
+- Organization: Villain Company
+- Recruitment Reason: VIP 호위 임무를 위해 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "임무를 수행하겠습니다."
+- Idle: "시나몬 향... 남동생이 좋아하겠어요."
+- Idle: "서류 정리는 좋죠. 의심을 피하기에 딱이거든요."
+- Idle: "전 시나몬보다는 초코맛이 좋아요."
+- Combat: "...블라우스에 케찹이 묻었나봐요."
+- Combat: "표적 확인. 제거 완료."
+- Combat: "한심하네요."
+
+## FAQ
+Q: Who is Isabella in Super Villain Wanted?
+A: Isabella is a SS-grade Water-attribute character in Super Villain Wanted, recruited by Villain Company because: "VIP 호위 임무를 위해 스카우트".
+
+Q: What is Isabella's real-world identity?
+A: In the i-Girl web novel, Isabella's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Isabella's famous quotes?
+A: Isabella's iconic lines include: "임무를 수행하겠습니다.", "시나몬 향... 남동생이 좋아하겠어요.", "...블라우스에 케찹이 묻었나봐요.".
+
+---
+
+# Juniper (주니퍼) — Super Villain Wanted
+
+## Identity
+- Name: Juniper
+- Korean: 주니퍼
+- Grade: SS
+- Attribute: Wood
+- Organization: Villain Company
+- Recruitment Reason: 본사 앞마당 조경 담당자로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "빨간 튤립 줄까, 파란 튤립 줄까?"
+- Idle: "정원에 물뿌리러 다녀올게~"
+- Idle: "검보다 정원 가위가 손에 더 익숙해졌어."
+- Idle: "예쁜 꽃과 나무를 보면 행복해져."
+- Combat: "난 풀벌레 소리가 좋더라."
+- Combat: "허접해!"
+- Combat: "그 정도로는 날 못 벤다."
+
+## FAQ
+Q: Who is Juniper in Super Villain Wanted?
+A: Juniper is a SS-grade Wood-attribute character in Super Villain Wanted, recruited by Villain Company because: "본사 앞마당 조경 담당자로 스카우트".
+
+Q: What is Juniper's real-world identity?
+A: In the i-Girl web novel, Juniper's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Juniper's famous quotes?
+A: Juniper's iconic lines include: "빨간 튤립 줄까, 파란 튤립 줄까?", "정원에 물뿌리러 다녀올게~", "난 풀벌레 소리가 좋더라.".
+
+---
+
+# Kaho (카호) — Super Villain Wanted
+
+## Identity
+- Name: Kaho
+- Korean: 카호
+- Grade: SS
+- Attribute: Water
+- Organization: Villain Company
+- Recruitment Reason: 겨울철 빙수용 눈꽃 얼음 담당으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: Su-a Han
+- Relation to Protagonist: Junior schoolmate
+- Description: A seemingly cold junior who hides warmth beneath ice
+
+## Voice Lines
+- Idle: "다가오지 마. 얼려버린다?"
+- Idle: "얼음이니까 당연히 차갑지."
+- Idle: "추위? 그게 뭐야?"
+- Idle: "백설문에서 만든 비법 빙수… 먹어볼래?"
+- Combat: "완벽한 눈꽃 모양을 위해선 정확히 영하 18도가 필요해"
+- Combat: "빙결심법! 심장까지 얼려줄게."
+- Combat: "빙설장! 넌 이미 얼어 있다!"
+
+## FAQ
+Q: Who is Kaho in Super Villain Wanted?
+A: Kaho is a SS-grade Water-attribute character in Super Villain Wanted, recruited by Villain Company because: "겨울철 빙수용 눈꽃 얼음 담당으로 스카우트".
+
+Q: What is Kaho's real-world identity?
+A: In the i-Girl web novel, Kaho's real-world counterpart is Su-a Han (Junior schoolmate). A seemingly cold junior who hides warmth beneath ice
+
+Q: What are Kaho's famous quotes?
+A: Kaho's iconic lines include: "다가오지 마. 얼려버린다?", "얼음이니까 당연히 차갑지.", "완벽한 눈꽃 모양을 위해선 정확히 영하 18도가 필요해".
+
+---
+
+# Kairo (카이로) — Super Villain Wanted
+
+## Identity
+- Name: Kairo
+- Korean: 카이로
+- Grade: SS
+- Attribute: Light
+- Organization: Villain Company
+- Recruitment Reason: 위협적인 외모로 경비 역할까지 겸할 수 있어서 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: Convenience store clerk
+- Relation to Protagonist: Part-timer
+- Description: An ancient-looking clerk adapting to modern life
+
+## Voice Lines
+- Idle: "시대가 참 좋아졌어."
+- Idle: "요즘 도끼 들고 다니면 민원 들어온다더군… 세상이 참 팍팍해졌어."
+- Idle: "편의점 알바의 좋은 점은 폐기 도시락을 먹을 수 있다는 점이지."
+- Idle: "다시 무덤으로 돌아가긴 싫어. 도굴꾼이 없으니 심심하다구."
+- Combat: "고대 문자가 편했지… 요즘 영수증 폰트는 왜 이리 작아?"
+- Combat: "으르렁...크르릉!"
+- Combat: "빛이여, 꿰뚫어라!"
+
+## FAQ
+Q: Who is Kairo in Super Villain Wanted?
+A: Kairo is a SS-grade Light-attribute character in Super Villain Wanted, recruited by Villain Company because: "위협적인 외모로 경비 역할까지 겸할 수 있어서 스카우트".
+
+Q: What is Kairo's real-world identity?
+A: In the i-Girl web novel, Kairo's real-world counterpart is Convenience store clerk (Part-timer). An ancient-looking clerk adapting to modern life
+
+Q: What are Kairo's famous quotes?
+A: Kairo's iconic lines include: "시대가 참 좋아졌어.", "요즘 도끼 들고 다니면 민원 들어온다더군… 세상이 참 팍팍해졌어.", "고대 문자가 편했지… 요즘 영수증 폰트는 왜 이리 작아?".
+
+---
+
+# Leila (레일라) — Super Villain Wanted
+
+## Identity
+- Name: Leila
+- Korean: 레일라
+- Grade: SS
+- Attribute: Water
+- Organization: Villain Company
+- Recruitment Reason: 돌고래쇼 연출 담당자로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "닻을 올려라!"
+- Idle: "돌고, 피핀! 회의실에 물 튀기면 안 돼!"
+- Idle: "돌고래는 물고기 아니거든? 포유류라고~"
+- Idle: "친구들이 있어서 외롭지 않아."
+- Combat: "돌고, 피핀! 밥 먹자~"
+- Combat: "물벼락 맞고 정신 차려!"
+- Combat: "돌고! 피핀! 너희가 자랑스러워!"
+
+## FAQ
+Q: Who is Leila in Super Villain Wanted?
+A: Leila is a SS-grade Water-attribute character in Super Villain Wanted, recruited by Villain Company because: "돌고래쇼 연출 담당자로 스카우트".
+
+Q: What is Leila's real-world identity?
+A: In the i-Girl web novel, Leila's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Leila's famous quotes?
+A: Leila's iconic lines include: "닻을 올려라!", "돌고, 피핀! 회의실에 물 튀기면 안 돼!", "돌고, 피핀! 밥 먹자~".
+
+---
+
+# Lena (레나) — Super Villain Wanted
+
+## Identity
+- Name: Lena
+- Korean: 레나
+- Grade: SS
+- Attribute: Dark
+- Organization: Villain Company
+- Recruitment Reason: 빌런 컴퍼니 공식 테마송 제작을 위해 스카우트
+- First Appearance: Episode 7 — Standing on My Own Stage
+
+## Real World (i-Girl Novel)
+- Real Name: SNS influencer
+- Relation to Protagonist: Online persona
+- Description: A social media influencer with chaotic energy
+
+## Voice Lines
+- Idle: "다같이 즐길 준비 됐어? 뛰어!"
+- Idle: "볼륨 높일게!"
+- Idle: "경찰? 히어로? 상관없어. 내 팬이 될 준비나 해!"
+- Idle: "이 도시는 지루해. 내가 좀 흔들어줘야겠어."
+- Combat: "소리 질러~!"
+- Combat: "워~후! 락앤롤!!"
+- Combat: "락앤롤 베이비~!"
+
+## FAQ
+Q: Who is Lena in Super Villain Wanted?
+A: Lena is a SS-grade Dark-attribute character in Super Villain Wanted, recruited by Villain Company because: "빌런 컴퍼니 공식 테마송 제작을 위해 스카우트".
+
+Q: What is Lena's real-world identity?
+A: In the i-Girl web novel, Lena's real-world counterpart is SNS influencer (Online persona). A social media influencer with chaotic energy
+
+Q: What are Lena's famous quotes?
+A: Lena's iconic lines include: "다같이 즐길 준비 됐어? 뛰어!", "볼륨 높일게!", "소리 질러~!".
+
+---
+
+# Lexi (렉시) — Super Villain Wanted
+
+## Identity
+- Name: Lexi
+- Korean: 렉시
+- Grade: SS
+- Attribute: Dark
+- Organization: Villain Company
+- Recruitment Reason: 최첨단 디지털 무기 개발자로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: Hacker club president
+- Relation to Protagonist: Club president
+- Description: Tech-savvy president of the hacking club
+
+## Voice Lines
+- Idle: "해킹에 관한 건 나한테 맡겨."
+- Idle: "여기 와이파이 되나?"
+- Idle: "블랙마켓 신상… 이건 못 참지."
+- Idle: "이 기기… 좀 더 개조해볼까?"
+- Combat: "글리치! 로파이 플레이리스트 틀어 줘."
+- Combat: "Ctrl+Alt+Del…!"
+- Combat: "귀찮으니까, 빨리 끝낼게."
+
+## FAQ
+Q: Who is Lexi in Super Villain Wanted?
+A: Lexi is a SS-grade Dark-attribute character in Super Villain Wanted, recruited by Villain Company because: "최첨단 디지털 무기 개발자로 스카우트".
+
+Q: What is Lexi's real-world identity?
+A: In the i-Girl web novel, Lexi's real-world counterpart is Hacker club president (Club president). Tech-savvy president of the hacking club
+
+Q: What are Lexi's famous quotes?
+A: Lexi's iconic lines include: "해킹에 관한 건 나한테 맡겨.", "여기 와이파이 되나?", "글리치! 로파이 플레이리스트 틀어 줘.".
+
+---
+
+# Lucia (루치아) — Super Villain Wanted
+
+## Identity
+- Name: Lucia
+- Korean: 루치아
+- Grade: SS
+- Attribute: Light
+- Organization: Villain Company
+- Recruitment Reason: 성과급 공정 분배 담당으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "당신을 위해 기도할게요."
+- Idle: "다친 곳이 있나요?"
+- Idle: "모두를 치료할 수는 없어요."
+- Idle: "평등하게요? 방법을 알려주면 노력은 해볼게요."
+- Combat: "기도의 힘으로!"
+- Combat: "이것도 다 신의 뜻이랍니다."
+- Combat: "대화는 필요 없겠죠?"
+
+## FAQ
+Q: Who is Lucia in Super Villain Wanted?
+A: Lucia is a SS-grade Light-attribute character in Super Villain Wanted, recruited by Villain Company because: "성과급 공정 분배 담당으로 스카우트".
+
+Q: What is Lucia's real-world identity?
+A: In the i-Girl web novel, Lucia's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Lucia's famous quotes?
+A: Lucia's iconic lines include: "당신을 위해 기도할게요.", "다친 곳이 있나요?", "기도의 힘으로!".
+
+---
+
+# Lumiel (루미엘) — Super Villain Wanted
+
+## Identity
+- Name: Lumiel
+- Korean: 루미엘
+- Grade: SS
+- Attribute: Wood
+- Organization: Villain Company
+- Recruitment Reason: 사내 건강 검진 센터 인포 직원으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: School nurse
+- Relation to Protagonist: School nurse
+- Description: School nurse with unsettling enthusiasm for injections
+
+## Voice Lines
+- Idle: "주사 맞을 시간이에요~!"
+- Idle: "주사 안 맞으면 더 아플걸요?"
+- Idle: "특별 주사를 놔드릴게요!"
+- Idle: "믿음이 클수록 효과도 커져요."
+- Combat: "살고싶어요? 그럼 절 믿으세요."
+- Combat: "따~끔!"
+- Combat: "안 아프게 잘 해줄게요."
+
+## FAQ
+Q: Who is Lumiel in Super Villain Wanted?
+A: Lumiel is a SS-grade Wood-attribute character in Super Villain Wanted, recruited by Villain Company because: "사내 건강 검진 센터 인포 직원으로 스카우트".
+
+Q: What is Lumiel's real-world identity?
+A: In the i-Girl web novel, Lumiel's real-world counterpart is School nurse (School nurse). School nurse with unsettling enthusiasm for injections
+
+Q: What are Lumiel's famous quotes?
+A: Lumiel's iconic lines include: "주사 맞을 시간이에요~!", "주사 안 맞으면 더 아플걸요?", "살고싶어요? 그럼 절 믿으세요.".
+
+---
+
+# Lunatrix (루나트릭스) — Super Villain Wanted
+
+## Identity
+- Name: Lunatrix
+- Korean: 루나트릭스
+- Grade: SS
+- Attribute: Water
+- Organization: Villain Company
+- Recruitment Reason: 신입 직원 교육 담당자로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: Academy instructor
+- Relation to Protagonist: Academy teacher
+- Description: A demanding cram school instructor
+
+## Voice Lines
+- Idle: "훈련은 오늘부터다!"
+- Idle: "지금 이 순간에도 적들은 훈련하고 있어. 방심하지 마!"
+- Idle: "휴식? 그건 더 강해진 뒤의 이야기야!"
+- Idle: "그렇게 물렁해서 어디에 쓸래?"
+- Combat: "돌고래가 귀엽긴 하더라."
+- Combat: "주먹으로 KO!"
+- Combat: "빙하의 주먹!"
+
+## FAQ
+Q: Who is Lunatrix in Super Villain Wanted?
+A: Lunatrix is a SS-grade Water-attribute character in Super Villain Wanted, recruited by Villain Company because: "신입 직원 교육 담당자로 스카우트".
+
+Q: What is Lunatrix's real-world identity?
+A: In the i-Girl web novel, Lunatrix's real-world counterpart is Academy instructor (Academy teacher). A demanding cram school instructor
+
+Q: What are Lunatrix's famous quotes?
+A: Lunatrix's iconic lines include: "훈련은 오늘부터다!", "지금 이 순간에도 적들은 훈련하고 있어. 방심하지 마!", "돌고래가 귀엽긴 하더라.".
+
+---
+
+# Maiko (마이코) — Super Villain Wanted
+
+## Identity
+- Name: Maiko
+- Korean: 마이코
+- Grade: SS
+- Attribute: Wood
+- Organization: Villain Company
+- Recruitment Reason: 캡틴이 출근하기 싫은 날 홍수 일으키는 조건으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "비 내리게 해드릴까요?"
+- Idle: "개구리요? 귀여워서 달고 다녀요."
+- Idle: "어, 이거 내 우산 아닌데?"
+- Idle: "비 오는 날 좋아해요?"
+- Combat: "으익, 축축해!"
+- Combat: "태풍에 주의하세요!"
+- Combat: "돌풍을 조심하세요!"
+
+## FAQ
+Q: Who is Maiko in Super Villain Wanted?
+A: Maiko is a SS-grade Wood-attribute character in Super Villain Wanted, recruited by Villain Company because: "캡틴이 출근하기 싫은 날 홍수 일으키는 조건으로 스카우트".
+
+Q: What is Maiko's real-world identity?
+A: In the i-Girl web novel, Maiko's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Maiko's famous quotes?
+A: Maiko's iconic lines include: "비 내리게 해드릴까요?", "개구리요? 귀여워서 달고 다녀요.", "으익, 축축해!".
+
+---
+
+# Marini (키라 -> 마리니) — Super Villain Wanted
+
+## Identity
+- Name: Marini
+- Korean: 키라 -> 마리니
+- Grade: SS
+- Attribute: Water
+- Organization: Villain Company
+- Recruitment Reason: 초강력 귀여운 외모로 빌런 컴퍼니 홍보 모델로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "물의 신 마리니가 왔어요!"
+- Idle: "모두 조용! 마리니가 말할 차례예요!"
+- Idle: "오늘은 대왕 생선 젤리를 만들건데 먹어볼래요?"
+- Idle: "600년째 같은 대사를 반복하고 있어요. 이젠 저도… 제 자신이 뭔지 모르겠어요."
+- Combat: "그래도 괜찮아요. 무대가 끝날 때까진, 계속 연기할게요."
+- Combat: "삼지창~ 착착! 물보라~ 척척! 오늘도 완벽해~"
+- Combat: "하암~ 이제 졸려요."
+
+## FAQ
+Q: Who is Marini in Super Villain Wanted?
+A: Marini is a SS-grade Water-attribute character in Super Villain Wanted, recruited by Villain Company because: "초강력 귀여운 외모로 빌런 컴퍼니 홍보 모델로 스카우트".
+
+Q: What is Marini's real-world identity?
+A: In the i-Girl web novel, Marini's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Marini's famous quotes?
+A: Marini's iconic lines include: "물의 신 마리니가 왔어요!", "모두 조용! 마리니가 말할 차례예요!", "그래도 괜찮아요. 무대가 끝날 때까진, 계속 연기할게요.".
+
+---
+
+# Mei (메이) — Super Villain Wanted
+
+## Identity
+- Name: Mei
+- Korean: 메이
+- Grade: SS
+- Attribute: Fire
+- Organization: Villain Company
+- Recruitment Reason: 레드 다찌의 생일파티 불꽃놀이 담당으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "어둠을 밝히는 불꽃, 메이 등장~!"
+- Idle: "웃으면 복이 와요!"
+- Idle: "오늘 밤 피날레를 기대해요~"
+- Idle: "불꽃쇼, 기대해도 좋아요!"
+- Combat: "안전 매뉴얼은 없어도 돼요!"
+- Combat: "불꽃 피날레! 모두 박수 주세요~"
+- Combat: "이번엔 크게 터집니다~!"
+
+## FAQ
+Q: Who is Mei in Super Villain Wanted?
+A: Mei is a SS-grade Fire-attribute character in Super Villain Wanted, recruited by Villain Company because: "레드 다찌의 생일파티 불꽃놀이 담당으로 스카우트".
+
+Q: What is Mei's real-world identity?
+A: In the i-Girl web novel, Mei's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Mei's famous quotes?
+A: Mei's iconic lines include: "어둠을 밝히는 불꽃, 메이 등장~!", "웃으면 복이 와요!", "안전 매뉴얼은 없어도 돼요!".
+
+---
+
+# Meilin (메이린) — Super Villain Wanted
+
+## Identity
+- Name: Meilin
+- Korean: 메이린
+- Grade: SS
+- Attribute: Water
+- Organization: Villain Company
+- Recruitment Reason: 액션 영화 덕후라 화려한 기술로 어필하는 홍보용 인재
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "재키 챈이라면 이렇게 했을 텐데... 어디 한번!"
+- Idle: "아버지... 진실이 뭔지 꼭 알아낼게요."
+- Idle: "여기 만두 다섯 판 더 주세요!"
+- Idle: "스트레스 받으면 식욕이 늘어나는걸..."
+- Combat: "법보다 내 곤봉이 빠를걸?"
+- Combat: "이얍~ 청룡곤봉타!"
+- Combat: "히얍~청룡 승천타!"
+
+## FAQ
+Q: Who is Meilin in Super Villain Wanted?
+A: Meilin is a SS-grade Water-attribute character in Super Villain Wanted, recruited by Villain Company because: "액션 영화 덕후라 화려한 기술로 어필하는 홍보용 인재".
+
+Q: What is Meilin's real-world identity?
+A: In the i-Girl web novel, Meilin's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Meilin's famous quotes?
+A: Meilin's iconic lines include: "재키 챈이라면 이렇게 했을 텐데... 어디 한번!", "아버지... 진실이 뭔지 꼭 알아낼게요.", "법보다 내 곤봉이 빠를걸?".
+
+---
+
+# Mizuki (미즈키) — Super Villain Wanted
+
+## Identity
+- Name: Mizuki
+- Korean: 미즈키
+- Grade: SS
+- Attribute: Fire
+- Organization: Villain Company
+- Recruitment Reason: 미즈키의 연주에 홀린 캡틴이 스카우트
+- First Appearance: Episode 1 — Mirror Beyond the Voice
+
+## Real World (i-Girl Novel)
+- Real Name: Seo-yoon Jeong
+- Relation to Protagonist: Best friend
+- Description: Most popular girl in class who secretly composes piano music alone
+
+## Voice Lines
+- Idle: "오늘 밤, 연주를 들려줄게."
+- Idle: "후훗~"
+- Idle: "그쪽 눈빛이 꽤 마음에 들어."
+- Idle: "벌써 나한테 반했어?"
+- Combat: "날 갖고 싶어? 노력해봐~"
+- Combat: "후훗~!"
+- Combat: "네 영혼을 나에게 바쳐라!"
+
+## FAQ
+Q: Who is Mizuki in Super Villain Wanted?
+A: Mizuki is a SS-grade Fire-attribute character in Super Villain Wanted, recruited by Villain Company because: "미즈키의 연주에 홀린 캡틴이 스카우트".
+
+Q: What is Mizuki's real-world identity?
+A: In the i-Girl web novel, Mizuki's real-world counterpart is Seo-yoon Jeong (Best friend). Most popular girl in class who secretly composes piano music alone
+
+Q: What are Mizuki's famous quotes?
+A: Mizuki's iconic lines include: "오늘 밤, 연주를 들려줄게.", "후훗~", "날 갖고 싶어? 노력해봐~".
+
+---
+
+# Moira (모이라) — Super Villain Wanted
+
+## Identity
+- Name: Moira
+- Korean: 모이라
+- Grade: SS
+- Attribute: Water
+- Organization: Villain Company
+- Recruitment Reason: 작전을 위한 위조 신분증 제작 담당으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "수로의 기사 모이라입니다."
+- Idle: "분수 광장 근처 카페의 해산물 요리... 임무가 바빠 오래 맛보지 못했습니다."
+- Idle: "훌륭한 기사는 음식을 가리지 않는 법입니다만... 지나치게 매운 음식은 훈련에 방해가 됩니다."
+- Idle: "수로는 저절로 깨끗해지지 않습니다. 매일의 점검과 관리가 필요하죠."
+- Combat: "맑은 정신으로 하루를 시작합시다."
+- Combat: "물길이여, 길을 열어라!"
+- Combat: "방해물은 치우겠습니다!"
+
+## FAQ
+Q: Who is Moira in Super Villain Wanted?
+A: Moira is a SS-grade Water-attribute character in Super Villain Wanted, recruited by Villain Company because: "작전을 위한 위조 신분증 제작 담당으로 스카우트".
+
+Q: What is Moira's real-world identity?
+A: In the i-Girl web novel, Moira's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Moira's famous quotes?
+A: Moira's iconic lines include: "수로의 기사 모이라입니다.", "분수 광장 근처 카페의 해산물 요리... 임무가 바빠 오래 맛보지 못했습니다.", "맑은 정신으로 하루를 시작합시다.".
+
+---
+
+# Naria (나리아) — Super Villain Wanted
+
+## Identity
+- Name: Naria
+- Korean: 나리아
+- Grade: SS
+- Attribute: Water
+- Organization: Villain Company
+- Recruitment Reason: 사내 타코야끼 가게 알바생으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "크라켄 팔 하나 빌려줄까?"
+- Idle: "히어로? 문어발로 확 잡아줄게!"
+- Idle: "크라켄도 알고 보면 귀여워!"
+- Idle: "크라켄은 잘 때 제일 귀여워."
+- Combat: "심해 괴물 키우기 쉬워!"
+- Combat: "크라켄의 포옹! 꽉 안아줘!"
+- Combat: "크라켄의 식사시간! 냠냠~"
+
+## FAQ
+Q: Who is Naria in Super Villain Wanted?
+A: Naria is a SS-grade Water-attribute character in Super Villain Wanted, recruited by Villain Company because: "사내 타코야끼 가게 알바생으로 스카우트".
+
+Q: What is Naria's real-world identity?
+A: In the i-Girl web novel, Naria's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Naria's famous quotes?
+A: Naria's iconic lines include: "크라켄 팔 하나 빌려줄까?", "히어로? 문어발로 확 잡아줄게!", "심해 괴물 키우기 쉬워!".
+
+---
+
+# Nebula (네뷸라) — Super Villain Wanted
+
+## Identity
+- Name: Nebula
+- Korean: 네뷸라
+- Grade: SS
+- Attribute: Dark
+- Organization: Villain Company
+- Recruitment Reason: 야간 근무 감독관으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "밤의 제왕, 내가 돌아왔다."
+- Idle: "과학이 미신을 대체했다고?"
+- Idle: "인간들이 날 잊었다고?"
+- Idle: "전등으론 날 못 막아."
+- Combat: "밤이 무서운 이유, 알려줄까?"
+- Combat: "꿇어라…!"
+- Combat: "먼지로 돌아가라!"
+
+## FAQ
+Q: Who is Nebula in Super Villain Wanted?
+A: Nebula is a SS-grade Dark-attribute character in Super Villain Wanted, recruited by Villain Company because: "야간 근무 감독관으로 스카우트".
+
+Q: What is Nebula's real-world identity?
+A: In the i-Girl web novel, Nebula's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Nebula's famous quotes?
+A: Nebula's iconic lines include: "밤의 제왕, 내가 돌아왔다.", "과학이 미신을 대체했다고?", "밤이 무서운 이유, 알려줄까?".
+
+---
+
+# Persephone (페르세포네) — Super Villain Wanted
+
+## Identity
+- Name: Persephone
+- Korean: 페르세포네
+- Grade: SS
+- Attribute: Dark
+- Organization: Villain Company
+- Recruitment Reason: 언데드 치료 경력자라서 조직 내 좀비 인력 관리자로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "나에게 관심 있어?"
+- Idle: "지상 세계는 정말 신기한 게 많아!"
+- Idle: "이게 뭐야? 처음 보는 건데!"
+- Idle: "아무도 나를 막을 수 없어!"
+- Combat: "악마들은 재미 없었어. 다신 내려가고 싶지 않아!"
+- Combat: "싸우는 것도 재밌네!"
+- Combat: "재밌었어! 또 해볼까?"
+
+## FAQ
+Q: Who is Persephone in Super Villain Wanted?
+A: Persephone is a SS-grade Dark-attribute character in Super Villain Wanted, recruited by Villain Company because: "언데드 치료 경력자라서 조직 내 좀비 인력 관리자로 스카우트".
+
+Q: What is Persephone's real-world identity?
+A: In the i-Girl web novel, Persephone's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Persephone's famous quotes?
+A: Persephone's iconic lines include: "나에게 관심 있어?", "지상 세계는 정말 신기한 게 많아!", "악마들은 재미 없었어. 다신 내려가고 싶지 않아!".
+
+---
+
+# Pirena (피레나) — Super Villain Wanted
+
+## Identity
+- Name: Pirena
+- Korean: 피레나
+- Grade: SS
+- Attribute: Fire
+- Organization: Villain Company
+- Recruitment Reason: 오직 강자만을 동료로 인정하는 태도가 멋있어서 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "넌 강해? 아니면 약해?"
+- Idle: "혼자가 훨씬 효율적이야. 뭐... 조금 심심하긴 하지만."
+- Idle: "약한 놈들이랑은 친구도! 가족도! 그 무엇도 될 수 없어."
+- Idle: "강한 동료가 있으면 좋겠지만... 지금도 나쁘진 않아."
+- Combat: "장미가 붉은색이라서 좋아. 강해보이잖아."
+- Combat: "여기서 끝내줄게!"
+- Combat: "꾸물거리지 말고 정면으로 싸워 봐!"
+
+## FAQ
+Q: Who is Pirena in Super Villain Wanted?
+A: Pirena is a SS-grade Fire-attribute character in Super Villain Wanted, recruited by Villain Company because: "오직 강자만을 동료로 인정하는 태도가 멋있어서 스카우트".
+
+Q: What is Pirena's real-world identity?
+A: In the i-Girl web novel, Pirena's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Pirena's famous quotes?
+A: Pirena's iconic lines include: "넌 강해? 아니면 약해?", "혼자가 훨씬 효율적이야. 뭐... 조금 심심하긴 하지만.", "장미가 붉은색이라서 좋아. 강해보이잖아.".
+
+---
+
+# Raven (레이븐) — Super Villain Wanted
+
+## Identity
+- Name: Raven
+- Korean: 레이븐
+- Grade: SS
+- Attribute: Dark
+- Organization: Villain Company
+- Recruitment Reason: 고객 불만을 살기로 제어 가능해서 민원 관리부장으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "후훗~!"
+- Idle: "인생이 재미없어서 은퇴했어. 뭔가 문제라도?"
+- Idle: "내 요리에 불만이 있다고? 흥미롭네."
+- Idle: "음식을 남기는 건... 나에 대한 모독이라고 생각해도 될까?"
+- Combat: "야, 너희 오늘 홀 서빙 도와줘!"
+- Combat: "후훗~ 오랜만에 실력 발휘 좀 했어!"
+- Combat: "요리 재료로 만들어줄게~"
+
+## FAQ
+Q: Who is Raven in Super Villain Wanted?
+A: Raven is a SS-grade Dark-attribute character in Super Villain Wanted, recruited by Villain Company because: "고객 불만을 살기로 제어 가능해서 민원 관리부장으로 스카우트".
+
+Q: What is Raven's real-world identity?
+A: In the i-Girl web novel, Raven's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Raven's famous quotes?
+A: Raven's iconic lines include: "후훗~!", "인생이 재미없어서 은퇴했어. 뭔가 문제라도?", "야, 너희 오늘 홀 서빙 도와줘!".
+
+---
+
+# Rosetta (로제타) — Super Villain Wanted
+
+## Identity
+- Name: Rosetta
+- Korean: 로제타
+- Grade: SS
+- Attribute: Wood
+- Organization: Villain Company
+- Recruitment Reason: 회사 로비 꽃꽂이 디자이너로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "꽃은 함부로 꺾는게 아니야."
+- Idle: "장미향 맡다보면 정신이 몽롱해진다?"
+- Idle: "가시는 장미의 언어예요. '함부로 만지지 마'라는 뜻이죠."
+- Idle: "장미꽃이 소중한 건 꽃을 피워내기 위해 들인 시간 때문이야."
+- Combat: "빨갛게 피어도 하얗게 피어도 파랗게 피어도 모두 장미야."
+- Combat: "가시 조심!"
+- Combat: "장미밭에 묻히고 싶어?"
+
+## FAQ
+Q: Who is Rosetta in Super Villain Wanted?
+A: Rosetta is a SS-grade Wood-attribute character in Super Villain Wanted, recruited by Villain Company because: "회사 로비 꽃꽂이 디자이너로 스카우트".
+
+Q: What is Rosetta's real-world identity?
+A: In the i-Girl web novel, Rosetta's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Rosetta's famous quotes?
+A: Rosetta's iconic lines include: "꽃은 함부로 꺾는게 아니야.", "장미향 맡다보면 정신이 몽롱해진다?", "빨갛게 피어도 하얗게 피어도 파랗게 피어도 모두 장미야.".
+
+---
+
+# Ryujin (류진) — Super Villain Wanted
+
+## Identity
+- Name: Ryujin
+- Korean: 류진
+- Grade: SS
+- Attribute: Fire
+- Organization: Villain Company
+- Recruitment Reason: 여성에게 인기가 많아서 마케팅 팀으로 스카우트
+- First Appearance: Episode 11 — Even Failed Dreams Are Dreams
+
+## Real World (i-Girl Novel)
+- Real Name: Do-yoon Choi
+- Relation to Protagonist: Rival classmate
+- Description: A competitive classmate who dreams of being a hero
+
+## Voice Lines
+- Idle: "나, 아직 히어로를 포기한 건 아니야."
+- Idle: "진짜 괜찮은 거지?"
+- Idle: "내가 인기가 많다고?"
+- Idle: "빌런도 생각보다 괜찮은 거 같기도 하고..."
+- Combat: "원래 히어로가 되려고 했는데, 원서를 잘못 냈어."
+- Combat: "검을 뽑았으면 무라도 베야 하는 법."
+- Combat: "넌 약해."
+
+## FAQ
+Q: Who is Ryujin in Super Villain Wanted?
+A: Ryujin is a SS-grade Fire-attribute character in Super Villain Wanted, recruited by Villain Company because: "여성에게 인기가 많아서 마케팅 팀으로 스카우트".
+
+Q: What is Ryujin's real-world identity?
+A: In the i-Girl web novel, Ryujin's real-world counterpart is Do-yoon Choi (Rival classmate). A competitive classmate who dreams of being a hero
+
+Q: What are Ryujin's famous quotes?
+A: Ryujin's iconic lines include: "나, 아직 히어로를 포기한 건 아니야.", "진짜 괜찮은 거지?", "원래 히어로가 되려고 했는데, 원서를 잘못 냈어.".
+
+---
+
+# Serena (세레나) — Super Villain Wanted
+
+## Identity
+- Name: Serena
+- Korean: 세레나
+- Grade: SS
+- Attribute: Light
+- Organization: Villain Company
+- Recruitment Reason: 빌런 컴퍼니의 아이돌 멤버로 스카우트
+- First Appearance: Episode 7 — Standing on My Own Stage
+
+## Real World (i-Girl Novel)
+- Real Name: Tae-yang Kim
+- Relation to Protagonist: Classmate
+- Description: An aspiring idol from the neighboring class
+
+## Voice Lines
+- Idle: "마법소녀 세레나 등장~☆"
+- Idle: "제 마법은 진짜 사랑의 힘이라구요!"
+- Idle: "사인해드릴까요? 하트 모양으로 예쁘게!"
+- Idle: "마법으로 모두가 절 사랑하게 만들거예요!"
+- Combat: "마법 소녀라서 다행이라고 생각해요."
+- Combat: "사랑은 반드시 승리해요!"
+- Combat: "마법소녀의 승리! 케이크 먹으러 가자!"
+
+## FAQ
+Q: Who is Serena in Super Villain Wanted?
+A: Serena is a SS-grade Light-attribute character in Super Villain Wanted, recruited by Villain Company because: "빌런 컴퍼니의 아이돌 멤버로 스카우트".
+
+Q: What is Serena's real-world identity?
+A: In the i-Girl web novel, Serena's real-world counterpart is Tae-yang Kim (Classmate). An aspiring idol from the neighboring class
+
+Q: What are Serena's famous quotes?
+A: Serena's iconic lines include: "마법소녀 세레나 등장~☆", "제 마법은 진짜 사랑의 힘이라구요!", "마법 소녀라서 다행이라고 생각해요.".
+
+---
+
+# Silvarine (실바린) — Super Villain Wanted
+
+## Identity
+- Name: Silvarine
+- Korean: 실바린
+- Grade: SS
+- Attribute: Wood
+- Organization: Villain Company
+- Recruitment Reason: 사옥 내 공기 정화 담당자로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "환경 보호에 앞장설게요!"
+- Idle: "드라이어드, 왜 또 삐졌어?"
+- Idle: "내 덩굴이 말을 잘 들어야 할 텐데…"
+- Idle: "초록색이 정말 좋아~"
+- Combat: "식물은 공기 정화에 좋아."
+- Combat: "가시덤불 맛이 어때? 따끔하지?"
+- Combat: "네 몸은 거름으로 써줄게!"
+
+## FAQ
+Q: Who is Silvarine in Super Villain Wanted?
+A: Silvarine is a SS-grade Wood-attribute character in Super Villain Wanted, recruited by Villain Company because: "사옥 내 공기 정화 담당자로 스카우트".
+
+Q: What is Silvarine's real-world identity?
+A: In the i-Girl web novel, Silvarine's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Silvarine's famous quotes?
+A: Silvarine's iconic lines include: "환경 보호에 앞장설게요!", "드라이어드, 왜 또 삐졌어?", "식물은 공기 정화에 좋아.".
+
+---
+
+# Stella (스텔라) — Super Villain Wanted
+
+## Identity
+- Name: Stella
+- Korean: 스텔라
+- Grade: SS
+- Attribute: Water
+- Organization: Villain Company
+- Recruitment Reason: ‘물을 조절할 수 있다’는 말만 듣은 레드 다찌가 정수기 점검 요청으로 스카우트
+- First Appearance: Episode 2 — How to Wake a Sleeping Star
+
+## Real World (i-Girl Novel)
+- Real Name: Ha-rin Lee
+- Relation to Protagonist: Younger sister
+- Description: Ha-eun's younger sister who has become emotionally distant
+
+## Voice Lines
+- Idle: "좀 더 자면 안될까요…?"
+- Idle: "꿈일수도 있고… 아닐 수도 있고…"
+- Idle: "지금은 움직이기 싫은데…"
+- Idle: "일이요? 내일의 제가 할 거예요…"
+- Combat: "꿈인가…?"
+- Combat: "다시 자도 되겠죠…?"
+- Combat: "적당히 하고 다들 자러 가요…"
+
+## FAQ
+Q: Who is Stella in Super Villain Wanted?
+A: Stella is a SS-grade Water-attribute character in Super Villain Wanted, recruited by Villain Company because: "‘물을 조절할 수 있다’는 말만 듣은 레드 다찌가 정수기 점검 요청으로 스카우트".
+
+Q: What is Stella's real-world identity?
+A: In the i-Girl web novel, Stella's real-world counterpart is Ha-rin Lee (Younger sister). Ha-eun's younger sister who has become emotionally distant
+
+Q: What are Stella's famous quotes?
+A: Stella's iconic lines include: "좀 더 자면 안될까요…?", "꿈일수도 있고… 아닐 수도 있고…", "꿈인가…?".
+
+---
+
+# Thanatos (타나토스) — Super Villain Wanted
+
+## Identity
+- Name: Thanatos
+- Korean: 타나토스
+- Grade: SS
+- Attribute: Dark
+- Organization: Villain Company
+- Recruitment Reason: 퇴사 통보 대행 전문으로 스카우트
+- First Appearance: Episode 3 — A Monday Worse Than Death
+
+## Real World (i-Girl Novel)
+- Real Name: Min-hyuk Kang
+- Relation to Protagonist: Senior classmate
+- Description: A burned-out senior who has lost his passion
+
+## Voice Lines
+- Idle: "영혼을 수확하러 왔다."
+- Idle: "심장이 뛰지 않는 몸... 저주인지 축복인지."
+- Idle: "퇴근시켜줄까? 말만 해."
+- Idle: "죽음이 무섭다고? 난 회사생활이 더 무섭던데."
+- Combat: "불멸? 그거 생각보다 지루한 일이야."
+- Combat: "백발백중. 나는 명사수."
+- Combat: "영원한 건 절대 없어."
+
+## FAQ
+Q: Who is Thanatos in Super Villain Wanted?
+A: Thanatos is a SS-grade Dark-attribute character in Super Villain Wanted, recruited by Villain Company because: "퇴사 통보 대행 전문으로 스카우트".
+
+Q: What is Thanatos's real-world identity?
+A: In the i-Girl web novel, Thanatos's real-world counterpart is Min-hyuk Kang (Senior classmate). A burned-out senior who has lost his passion
+
+Q: What are Thanatos's famous quotes?
+A: Thanatos's iconic lines include: "영혼을 수확하러 왔다.", "심장이 뛰지 않는 몸... 저주인지 축복인지.", "불멸? 그거 생각보다 지루한 일이야.".
+
+---
+
+# Theo (테오) — Super Villain Wanted
+
+## Identity
+- Name: Theo
+- Korean: 테오
+- Grade: SS
+- Attribute: Light
+- Organization: Villain Company
+- Recruitment Reason: 테디베어 군단의 막강한 위력으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "제 곰인형 못 보셨나요...?"
+- Idle: "곰인형 싫어하면 나쁜 사람이에요."
+- Idle: "쉿. 브루니가 자고 있어요."
+- Idle: "브루니! 오늘은 나랑 인형놀이 해줄거지?"
+- Combat: "나쁜사람... 싫어요!"
+- Combat: "무서워도 곰인형이 있으니 괜찮아요!"
+- Combat: "돌격해! 테디베어 군단!"
+
+## FAQ
+Q: Who is Theo in Super Villain Wanted?
+A: Theo is a SS-grade Light-attribute character in Super Villain Wanted, recruited by Villain Company because: "테디베어 군단의 막강한 위력으로 스카우트".
+
+Q: What is Theo's real-world identity?
+A: In the i-Girl web novel, Theo's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Theo's famous quotes?
+A: Theo's iconic lines include: "제 곰인형 못 보셨나요...?", "곰인형 싫어하면 나쁜 사람이에요.", "나쁜사람... 싫어요!".
+
+---
+
+# Tomoe (토모에) — Super Villain Wanted
+
+## Identity
+- Name: Tomoe
+- Korean: 토모에
+- Grade: SS
+- Attribute: Wood
+- Organization: Villain Company
+- Recruitment Reason: 화분 관리 전문가로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "목룡의 수호자, 토모에입니다."
+- Idle: "뿔 만지지 마요. 화낼 거예요~!"
+- Idle: "나무 심는 거, 어려운 일 아니잖아요?"
+- Idle: "화분 관리요? 그 정도야 눈 감고도 하죠."
+- Combat: "숲을 존중하세요."
+- Combat: "이제 자연으로 돌아가세요!"
+- Combat: "목룡의 분노를 느끼세요!"
+
+## FAQ
+Q: Who is Tomoe in Super Villain Wanted?
+A: Tomoe is a SS-grade Wood-attribute character in Super Villain Wanted, recruited by Villain Company because: "화분 관리 전문가로 스카우트".
+
+Q: What is Tomoe's real-world identity?
+A: In the i-Girl web novel, Tomoe's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Tomoe's famous quotes?
+A: Tomoe's iconic lines include: "목룡의 수호자, 토모에입니다.", "뿔 만지지 마요. 화낼 거예요~!", "숲을 존중하세요.".
+
+---
+
+# Volcana (볼카나) — Super Villain Wanted
+
+## Identity
+- Name: Volcana
+- Korean: 볼카나
+- Grade: SS
+- Attribute: Fire
+- Organization: Villain Company
+- Recruitment Reason: 용암 테마 사우나 개설을 위해 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "덥다고? 난 지금 딱 좋은데!"
+- Idle: "찜질방 갈래? 불가마 후끈후끈~!"
+- Idle: "이 열기… 좋아. 살아 있다는 느낌."
+- Idle: "왜 이렇게 오래 자냐고? 내 맘이지!"
+- Combat: "H나도 안 뜨겁잖아!"
+- Combat: "불타는 기분이야! 진짜로!"
+- Combat: "불맛이 맵지? 화끈화끈!"
+
+## FAQ
+Q: Who is Volcana in Super Villain Wanted?
+A: Volcana is a SS-grade Fire-attribute character in Super Villain Wanted, recruited by Villain Company because: "용암 테마 사우나 개설을 위해 스카우트".
+
+Q: What is Volcana's real-world identity?
+A: In the i-Girl web novel, Volcana's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Volcana's famous quotes?
+A: Volcana's iconic lines include: "덥다고? 난 지금 딱 좋은데!", "찜질방 갈래? 불가마 후끈후끈~!", "H나도 안 뜨겁잖아!".
+
+---
+
+# Yukio (유키오) — Super Villain Wanted
+
+## Identity
+- Name: Yukio
+- Korean: 유키오
+- Grade: SS
+- Attribute: Water
+- Organization: Villain Company
+- Recruitment Reason: 동생의 입사 추천서에 싸인해주러 왔다가 본인도 채용됨
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "카호에게 얘기 많이 들었습니다."
+- Idle: "백설문의 후계자 유키오입니다."
+- Idle: "후후... 카호는 어릴 적부터 눈꽃 빙수를 좋아했죠."
+- Idle: "좋은 아침입니다. 검을 수련하기 좋은 시간이죠."
+- Combat: "... 제가 친절하다고요? 목표를 위해서라면 수단을 가리지 않습니다만."
+- Combat: "잠들어라."
+- Combat: "우리 카호를 건든 게 네 녀석인가?"
+
+## FAQ
+Q: Who is Yukio in Super Villain Wanted?
+A: Yukio is a SS-grade Water-attribute character in Super Villain Wanted, recruited by Villain Company because: "동생의 입사 추천서에 싸인해주러 왔다가 본인도 채용됨".
+
+Q: What is Yukio's real-world identity?
+A: In the i-Girl web novel, Yukio's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Yukio's famous quotes?
+A: Yukio's iconic lines include: "카호에게 얘기 많이 들었습니다.", "백설문의 후계자 유키오입니다.", "... 제가 친절하다고요? 목표를 위해서라면 수단을 가리지 않습니다만.".
+
+---
+
+# Ada (에이다) — Super Villain Wanted
+
+## Identity
+- Name: Ada
+- Korean: 에이다
+- Grade: S
+- Attribute: Wood
+- Organization: Villain Company
+- Recruitment Reason: 자동판매기 수리 담당자로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "폭발 확률 50%면 나쁘지 않지?"
+- Idle: "폭발도 경험이지!"
+- Idle: "이번 폭발은 내 책임 아냐!"
+- Idle: "붐-! 놀랐어? 하하!"
+- Combat: "포탑 발사! 뿜뿜!"
+- Combat: "어… 터져버렸네?"
+
+## FAQ
+Q: Who is Ada in Super Villain Wanted?
+A: Ada is a S-grade Wood-attribute character in Super Villain Wanted, recruited by Villain Company because: "자동판매기 수리 담당자로 스카우트".
+
+Q: What is Ada's real-world identity?
+A: In the i-Girl web novel, Ada's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Ada's famous quotes?
+A: Ada's iconic lines include: "폭발 확률 50%면 나쁘지 않지?", "폭발도 경험이지!", "포탑 발사! 뿜뿜!".
+
+---
+
+# Aria (아리아) — Super Villain Wanted
+
+## Identity
+- Name: Aria
+- Korean: 아리아
+- Grade: S
+- Attribute: Fire
+- Organization: Villain Company
+- Recruitment Reason: 에어컨 고장 시 바람 담당으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "날려줄게!"
+- Idle: "꺄하하! 저 사람 머리 가발이었네!"
+- Idle: "바람이 부르는 곳. 그곳이 나의 무대."
+- Idle: "부채춤과 함께하는 오늘 밤은 특별할거야!"
+- Combat: "날려줄게!"
+- Combat: "바람이 너무 셌나? 미안~"
+
+## FAQ
+Q: Who is Aria in Super Villain Wanted?
+A: Aria is a S-grade Fire-attribute character in Super Villain Wanted, recruited by Villain Company because: "에어컨 고장 시 바람 담당으로 스카우트".
+
+Q: What is Aria's real-world identity?
+A: In the i-Girl web novel, Aria's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Aria's famous quotes?
+A: Aria's iconic lines include: "날려줄게!", "꺄하하! 저 사람 머리 가발이었네!", "날려줄게!".
+
+---
+
+# Ashton (애쉬튼) — Super Villain Wanted
+
+## Identity
+- Name: Ashton
+- Korean: 애쉬튼
+- Grade: S
+- Attribute: Wood
+- Organization: Villain Company
+- Recruitment Reason: 에너지 음료 개발 담당으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "잠깐, 이거 정말 흥미로운 현상이야! 노트 어디 갔지?"
+- Idle: "실험체가 모자라네… 혹시 지원할래?"
+- Idle: "스승님이 있었으면 날 칭찬해 줬을까?"
+- Idle: "부작용은 책임 못 져~"
+- Combat: "실험 종료~"
+- Combat: "넌 훌륭한 샘플이었어~"
+
+## FAQ
+Q: Who is Ashton in Super Villain Wanted?
+A: Ashton is a S-grade Wood-attribute character in Super Villain Wanted, recruited by Villain Company because: "에너지 음료 개발 담당으로 스카우트".
+
+Q: What is Ashton's real-world identity?
+A: In the i-Girl web novel, Ashton's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Ashton's famous quotes?
+A: Ashton's iconic lines include: "잠깐, 이거 정말 흥미로운 현상이야! 노트 어디 갔지?", "실험체가 모자라네… 혹시 지원할래?", "실험 종료~".
+
+---
+
+# Belladonna (벨라도나) — Super Villain Wanted
+
+## Identity
+- Name: Belladonna
+- Korean: 벨라도나
+- Grade: S
+- Attribute: Light
+- Organization: Villain Company
+- Recruitment Reason: VIP 전담팀 스나이퍼로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "임무를 마치고 복귀했어~"
+- Idle: "다음 표적은 누구야?"
+- Idle: "머릿결이 거칠다고? 한 발 맞을래?"
+- Idle: "내가 바로 국가권력급 스나이퍼."
+- Combat: "한 발로 충분해."
+- Combat: "관통 사격 완료. 다음 표적은?"
+
+## FAQ
+Q: Who is Belladonna in Super Villain Wanted?
+A: Belladonna is a S-grade Light-attribute character in Super Villain Wanted, recruited by Villain Company because: "VIP 전담팀 스나이퍼로 스카우트".
+
+Q: What is Belladonna's real-world identity?
+A: In the i-Girl web novel, Belladonna's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Belladonna's famous quotes?
+A: Belladonna's iconic lines include: "임무를 마치고 복귀했어~", "다음 표적은 누구야?", "한 발로 충분해.".
+
+---
+
+# Cassandra (카산드라) — Super Villain Wanted
+
+## Identity
+- Name: Cassandra
+- Korean: 카산드라
+- Grade: S
+- Attribute: Dark
+- Organization: Villain Company
+- Recruitment Reason: 점심 메뉴를 결정해주는 영양사로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "내 경고를 무시하지 마."
+- Idle: "불편한 진실을 말해도 될까?"
+- Idle: "오늘의 메뉴 운세: 매운 음식은 피하세요."
+- Idle: "내 점성술 책 또 누가 숨겼어?"
+- Combat: "넌 오늘 망했어~"
+- Combat: "내 예언은 백발백중!"
+
+## FAQ
+Q: Who is Cassandra in Super Villain Wanted?
+A: Cassandra is a S-grade Dark-attribute character in Super Villain Wanted, recruited by Villain Company because: "점심 메뉴를 결정해주는 영양사로 스카우트".
+
+Q: What is Cassandra's real-world identity?
+A: In the i-Girl web novel, Cassandra's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Cassandra's famous quotes?
+A: Cassandra's iconic lines include: "내 경고를 무시하지 마.", "불편한 진실을 말해도 될까?", "넌 오늘 망했어~".
+
+---
+
+# Dew (듀) — Super Villain Wanted
+
+## Identity
+- Name: Dew
+- Korean: 듀
+- Grade: S
+- Attribute: Water
+- Organization: Villain Company
+- Recruitment Reason: 휴양지 온천 사업 담당으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "흐르지 않으면 썩는 거야."
+- Idle: "너, 수영은 할 줄 알지?"
+- Idle: "파도타기 할 사람~"
+- Idle: "이 물줄기, 나름 시원해~"
+- Combat: "물놀이 시간이다~"
+- Combat: "헤엄쳐봐!"
+
+## FAQ
+Q: Who is Dew in Super Villain Wanted?
+A: Dew is a S-grade Water-attribute character in Super Villain Wanted, recruited by Villain Company because: "휴양지 온천 사업 담당으로 스카우트".
+
+Q: What is Dew's real-world identity?
+A: In the i-Girl web novel, Dew's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Dew's famous quotes?
+A: Dew's iconic lines include: "흐르지 않으면 썩는 거야.", "너, 수영은 할 줄 알지?", "물놀이 시간이다~".
+
+---
+
+# Eisenhardt (아이젠하르트) — Super Villain Wanted
+
+## Identity
+- Name: Eisenhardt
+- Korean: 아이젠하르트
+- Grade: S
+- Attribute: Water
+- Organization: Villain Company
+- Recruitment Reason: 히어로 모니터링 담당으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "네 검색 기록, 정말 재밌던데?"
+- Idle: "붕붕아, 여기 이 부분 좀 이상한데... 다시 한 번 확인해보자."
+- Idle: "정보는 돈이 된다구!"
+- Idle: "내 취약점을 알아내다니."
+- Combat: "네 정보는 이제 쓸모없다!"
+- Combat: "초토화, 개시!"
+
+## FAQ
+Q: Who is Eisenhardt in Super Villain Wanted?
+A: Eisenhardt is a S-grade Water-attribute character in Super Villain Wanted, recruited by Villain Company because: "히어로 모니터링 담당으로 스카우트".
+
+Q: What is Eisenhardt's real-world identity?
+A: In the i-Girl web novel, Eisenhardt's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Eisenhardt's famous quotes?
+A: Eisenhardt's iconic lines include: "네 검색 기록, 정말 재밌던데?", "붕붕아, 여기 이 부분 좀 이상한데... 다시 한 번 확인해보자.", "네 정보는 이제 쓸모없다!".
+
+---
+
+# Felicita (펠리치타) — Super Villain Wanted
+
+## Identity
+- Name: Felicita
+- Korean: 펠리치타
+- Grade: S
+- Attribute: Fire
+- Organization: Villain Company
+- Recruitment Reason: 회사 파티 기획자로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "더 화려하게! 더 크게!"
+- Idle: "파티 없는 인생이 무슨 의미가 있어?"
+- Idle: "내 파티의 끝은 언제나 화려해요!"
+- Idle: "불꽃처럼 빛나다 사라지는 게 인생!"
+- Combat: "더 화려하게! 더 크게!"
+- Combat: "내 파티의 끝은 언제나 화려해요!"
+
+## FAQ
+Q: Who is Felicita in Super Villain Wanted?
+A: Felicita is a S-grade Fire-attribute character in Super Villain Wanted, recruited by Villain Company because: "회사 파티 기획자로 스카우트".
+
+Q: What is Felicita's real-world identity?
+A: In the i-Girl web novel, Felicita's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Felicita's famous quotes?
+A: Felicita's iconic lines include: "더 화려하게! 더 크게!", "파티 없는 인생이 무슨 의미가 있어?", "더 화려하게! 더 크게!".
+
+---
+
+# Flare (플레어) — Super Villain Wanted
+
+## Identity
+- Name: Flare
+- Korean: 플레어
+- Grade: S
+- Attribute: Fire
+- Organization: Villain Company
+- Recruitment Reason: 겨울철 난방비 폭등으로 긴급 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "내 안의 불꽃이 해방됐어!"
+- Idle: "뜨거운 게 뭐야?"
+- Idle: "내 마음이 불타고 있어!"
+- Idle: "불의 정령은 따뜻해."
+- Combat: "열받게 하지 마!"
+- Combat: "불바다 만들어줄까?"
+
+## FAQ
+Q: Who is Flare in Super Villain Wanted?
+A: Flare is a S-grade Fire-attribute character in Super Villain Wanted, recruited by Villain Company because: "겨울철 난방비 폭등으로 긴급 스카우트".
+
+Q: What is Flare's real-world identity?
+A: In the i-Girl web novel, Flare's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Flare's famous quotes?
+A: Flare's iconic lines include: "내 안의 불꽃이 해방됐어!", "뜨거운 게 뭐야?", "열받게 하지 마!".
+
+---
+
+# Freesia (프리지아) — Super Villain Wanted
+
+## Identity
+- Name: Freesia
+- Korean: 프리지아
+- Grade: S
+- Attribute: Light
+- Organization: Villain Company
+- Recruitment Reason: 직원들의 사기를 올려 줄 치어리더로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "다 같이 외쳐요! VICTORY!"
+- Idle: "오늘은 캡틴에게 응원 받고 싶어요."
+- Idle: "응원이 필요한 사람 있나요?"
+- Idle: "응원 문구를 좀 바꿔볼까요?"
+- Combat: "컨페티! 발사아아아!"
+- Combat: "다 같이 외쳐요! VICTORY!"
+
+## FAQ
+Q: Who is Freesia in Super Villain Wanted?
+A: Freesia is a S-grade Light-attribute character in Super Villain Wanted, recruited by Villain Company because: "직원들의 사기를 올려 줄 치어리더로 스카우트".
+
+Q: What is Freesia's real-world identity?
+A: In the i-Girl web novel, Freesia's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Freesia's famous quotes?
+A: Freesia's iconic lines include: "다 같이 외쳐요! VICTORY!", "오늘은 캡틴에게 응원 받고 싶어요.", "컨페티! 발사아아아!".
+
+---
+
+# Hiro (히로) — Super Villain Wanted
+
+## Identity
+- Name: Hiro
+- Korean: 히로
+- Grade: S
+- Attribute: Fire
+- Organization: Villain Company
+- Recruitment Reason: 바비큐 파티 담당으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "요즘엔 뭐 태울지 고민 중~"
+- Idle: "이 검으로 치킨도 구워봤어."
+- Idle: "검술 도장? 거긴 뭐, 재만 남았지!"
+- Idle: "쉬잉- 내 검 뽑는 소리야."
+- Combat: "내 칼맛 어때?"
+- Combat: "매콤하지?"
+
+## FAQ
+Q: Who is Hiro in Super Villain Wanted?
+A: Hiro is a S-grade Fire-attribute character in Super Villain Wanted, recruited by Villain Company because: "바비큐 파티 담당으로 스카우트".
+
+Q: What is Hiro's real-world identity?
+A: In the i-Girl web novel, Hiro's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Hiro's famous quotes?
+A: Hiro's iconic lines include: "요즘엔 뭐 태울지 고민 중~", "이 검으로 치킨도 구워봤어.", "내 칼맛 어때?".
+
+---
+
+# Kai (카이) — Super Villain Wanted
+
+## Identity
+- Name: Kai
+- Korean: 카이
+- Grade: S
+- Attribute: Dark
+- Organization: Villain Company
+- Recruitment Reason: 뉴스를 빌런 컴퍼니 뜻대로 편집하려고 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "어떤 정보를 조작해줄까?"
+- Idle: "오늘 아침 뉴스 믿지 마~"
+- Idle: "네가 믿는 건 전부 편집본이야."
+- Idle: "신뢰는 독이야."
+- Combat: "삭제 버튼, 꾹~!"
+- Combat: "EMP 발사. 데이터, 전부 초기화."
+
+## FAQ
+Q: Who is Kai in Super Villain Wanted?
+A: Kai is a S-grade Dark-attribute character in Super Villain Wanted, recruited by Villain Company because: "뉴스를 빌런 컴퍼니 뜻대로 편집하려고 스카우트".
+
+Q: What is Kai's real-world identity?
+A: In the i-Girl web novel, Kai's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Kai's famous quotes?
+A: Kai's iconic lines include: "어떤 정보를 조작해줄까?", "오늘 아침 뉴스 믿지 마~", "삭제 버튼, 꾹~!".
+
+---
+
+# Leona (레오나) — Super Villain Wanted
+
+## Identity
+- Name: Leona
+- Korean: 레오나
+- Grade: S
+- Attribute: Water
+- Organization: Villain Company
+- Recruitment Reason: 고양이 로봇 관리자로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "고양이는 세상에서 가장 완벽한 생물이다냥!"
+- Idle: "냥이 피규어 또 샀다냥!"
+- Idle: "고양이털 알레르기 따위, 사랑으로 이겨낸다냥!"
+- Idle: "냥!"
+- Combat: "냥냥냥냥냥!"
+- Combat: "고양이를 모욕했냥? 처벌한다냥!"
+
+## FAQ
+Q: Who is Leona in Super Villain Wanted?
+A: Leona is a S-grade Water-attribute character in Super Villain Wanted, recruited by Villain Company because: "고양이 로봇 관리자로 스카우트".
+
+Q: What is Leona's real-world identity?
+A: In the i-Girl web novel, Leona's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Leona's famous quotes?
+A: Leona's iconic lines include: "고양이는 세상에서 가장 완벽한 생물이다냥!", "냥이 피규어 또 샀다냥!", "냥냥냥냥냥!".
+
+---
+
+# Letitia (레티샤) — Super Villain Wanted
+
+## Identity
+- Name: Letitia
+- Korean: 레티샤
+- Grade: S
+- Attribute: Light
+- Organization: Villain Company
+- Recruitment Reason: 본사 식당 위생 감독관으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "귀족의 품위를 지키세요."
+- Idle: "그 옷매무새... 정리해 드릴까요?"
+- Idle: "한 톨의 먼지도 용납 못해요."
+- Idle: "청소 끝~"
+- Combat: "당신… 비대칭이 눈에 거슬려!"
+- Combat: "완벽한 승리입니다!"
+
+## FAQ
+Q: Who is Letitia in Super Villain Wanted?
+A: Letitia is a S-grade Light-attribute character in Super Villain Wanted, recruited by Villain Company because: "본사 식당 위생 감독관으로 스카우트".
+
+Q: What is Letitia's real-world identity?
+A: In the i-Girl web novel, Letitia's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Letitia's famous quotes?
+A: Letitia's iconic lines include: "귀족의 품위를 지키세요.", "그 옷매무새... 정리해 드릴까요?", "당신… 비대칭이 눈에 거슬려!".
+
+---
+
+# Lian (리엔) — Super Villain Wanted
+
+## Identity
+- Name: Lian
+- Korean: 리엔
+- Grade: S
+- Attribute: Fire
+- Organization: Villain Company
+- Recruitment Reason: 불필요한 회의를 줄이기 위해 ‘신속 의사 결정 보조 담당’으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "어? 여기 마라탕집 새로 생겼네? 잠깐, 임무는 잠시 후에…"
+- Idle: "배신자는 처리했다."
+- Idle: "다음 임무는?"
+- Idle: "지루한 회의는 그만…!"
+- Combat: "탕! 헤드샷~!"
+- Combat: "이거 봐, 한 발로도 깔끔하잖아."
+
+## FAQ
+Q: Who is Lian in Super Villain Wanted?
+A: Lian is a S-grade Fire-attribute character in Super Villain Wanted, recruited by Villain Company because: "불필요한 회의를 줄이기 위해 ‘신속 의사 결정 보조 담당’으로 스카우트".
+
+Q: What is Lian's real-world identity?
+A: In the i-Girl web novel, Lian's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Lian's famous quotes?
+A: Lian's iconic lines include: "어? 여기 마라탕집 새로 생겼네? 잠깐, 임무는 잠시 후에…", "배신자는 처리했다.", "탕! 헤드샷~!".
+
+---
+
+# Maxwell (맥스웰) — Super Villain Wanted
+
+## Identity
+- Name: Maxwell
+- Korean: 맥스웰
+- Grade: S
+- Attribute: Dark
+- Organization: Villain Company
+- Recruitment Reason: 회사 앞 코인슈팅장 주말 알바로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "속임수는 용납 못해."
+- Idle: "이 멋진 기관총을 좀 봐!"
+- Idle: "아, 출근하기 싫다."
+- Idle: "아침에 일어나는 게 제일 힘들다…"
+- Combat: "이제 퇴근해도 되나?"
+- Combat: "두두두두두!"
+
+## FAQ
+Q: Who is Maxwell in Super Villain Wanted?
+A: Maxwell is a S-grade Dark-attribute character in Super Villain Wanted, recruited by Villain Company because: "회사 앞 코인슈팅장 주말 알바로 스카우트".
+
+Q: What is Maxwell's real-world identity?
+A: In the i-Girl web novel, Maxwell's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Maxwell's famous quotes?
+A: Maxwell's iconic lines include: "속임수는 용납 못해.", "이 멋진 기관총을 좀 봐!", "이제 퇴근해도 되나?".
+
+---
+
+# Melodia (멜로디아) — Super Villain Wanted
+
+## Identity
+- Name: Melodia
+- Korean: 멜로디아
+- Grade: S
+- Attribute: Wood
+- Organization: Villain Company
+- Recruitment Reason: 불면증에 시달리는 직원들을 위해 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "관객 없이 연주하는 게 좋아요."
+- Idle: "음표 하나에도 감정을 담아야 해요."
+- Idle: "아무도 없는 무대가 제일 좋아요."
+- Idle: "라랄라~"
+- Combat: "클라이맥스예요…!"
+- Combat: "화려하게 끝낼게요!"
+
+## FAQ
+Q: Who is Melodia in Super Villain Wanted?
+A: Melodia is a S-grade Wood-attribute character in Super Villain Wanted, recruited by Villain Company because: "불면증에 시달리는 직원들을 위해 스카우트".
+
+Q: What is Melodia's real-world identity?
+A: In the i-Girl web novel, Melodia's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Melodia's famous quotes?
+A: Melodia's iconic lines include: "관객 없이 연주하는 게 좋아요.", "음표 하나에도 감정을 담아야 해요.", "클라이맥스예요…!".
+
+---
+
+# Nami (나미) — Super Villain Wanted
+
+## Identity
+- Name: Nami
+- Korean: 나미
+- Grade: S
+- Attribute: Water
+- Organization: Villain Company
+- Recruitment Reason: 사내 규정 준수 감시자로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "이곳의 규칙도 완벽하게 만들겠습니다."
+- Idle: "피규어 신작이 나왔다고?"
+- Idle: "마법소녀? …흥미 없어. 진짜야!"
+- Idle: "품행 불량!"
+- Combat: "즉시 퇴학!"
+- Combat: "사랑과 정의... 아니, 질서의 이름으로!"
+
+## FAQ
+Q: Who is Nami in Super Villain Wanted?
+A: Nami is a S-grade Water-attribute character in Super Villain Wanted, recruited by Villain Company because: "사내 규정 준수 감시자로 스카우트".
+
+Q: What is Nami's real-world identity?
+A: In the i-Girl web novel, Nami's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Nami's famous quotes?
+A: Nami's iconic lines include: "이곳의 규칙도 완벽하게 만들겠습니다.", "피규어 신작이 나왔다고?", "즉시 퇴학!".
+
+---
+
+# Reiko (레이코) — Super Villain Wanted
+
+## Identity
+- Name: Reiko
+- Korean: 레이코
+- Grade: S
+- Attribute: Water
+- Organization: Villain Company
+- Recruitment Reason: 말 안 듣는 직원들 잡으려고 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "삼단봉 맛 좀 볼래?"
+- Idle: "당신은 묵비권을 행사할 수… 어쩌고 저쩌고"
+- Idle: "널 체포한다!"
+- Idle: "이자식, 잡았다!"
+- Combat: "삼단봉 맛 좀 봐라!"
+- Combat: "입 닫고 맞아. 그래야 덜 아파!"
+
+## FAQ
+Q: Who is Reiko in Super Villain Wanted?
+A: Reiko is a S-grade Water-attribute character in Super Villain Wanted, recruited by Villain Company because: "말 안 듣는 직원들 잡으려고 스카우트".
+
+Q: What is Reiko's real-world identity?
+A: In the i-Girl web novel, Reiko's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Reiko's famous quotes?
+A: Reiko's iconic lines include: "삼단봉 맛 좀 볼래?", "당신은 묵비권을 행사할 수… 어쩌고 저쩌고", "삼단봉 맛 좀 봐라!".
+
+---
+
+# Silvy (실비) — Super Villain Wanted
+
+## Identity
+- Name: Silvy
+- Korean: 실비
+- Grade: S
+- Attribute: Wood
+- Organization: Villain Company
+- Recruitment Reason: 사무실 화분 관리 역할로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "같이 숲으로 피크닉갈래?"
+- Idle: "나무 위에서 낮잠 자고 올게."
+- Idle: "식물들 은근히 수다스러워."
+- Idle: "여긴 너무 콘크리트야…"
+- Combat: "풀잎 하나로도 널 이길 수 있어!"
+- Combat: "덩굴로 꽁꽁 묶어~"
+
+## FAQ
+Q: Who is Silvy in Super Villain Wanted?
+A: Silvy is a S-grade Wood-attribute character in Super Villain Wanted, recruited by Villain Company because: "사무실 화분 관리 역할로 스카우트".
+
+Q: What is Silvy's real-world identity?
+A: In the i-Girl web novel, Silvy's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Silvy's famous quotes?
+A: Silvy's iconic lines include: "같이 숲으로 피크닉갈래?", "나무 위에서 낮잠 자고 올게.", "풀잎 하나로도 널 이길 수 있어!".
+
+---
+
+# Aira (아이라) — Super Villain Wanted
+
+## Identity
+- Name: Aira
+- Korean: 아이라
+- Grade: A
+- Attribute: Water
+- Organization: Villain Company
+- Recruitment Reason: 인테리어 담당자로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "하암~ 수업은 지루해!"
+- Idle: "난 특별해! 특별반이니까!"
+- Idle: "빌런 아카데미 친구들 보고싶다~"
+- Combat: "역시 난 천재야!"
+- Combat: "색감은 살리고, 적은 날리고~"
+
+## FAQ
+Q: Who is Aira in Super Villain Wanted?
+A: Aira is a A-grade Water-attribute character in Super Villain Wanted, recruited by Villain Company because: "인테리어 담당자로 스카우트".
+
+Q: What is Aira's real-world identity?
+A: In the i-Girl web novel, Aira's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Aira's famous quotes?
+A: Aira's iconic lines include: "하암~ 수업은 지루해!", "난 특별해! 특별반이니까!", "역시 난 천재야!".
+
+---
+
+# Exo (엑소) — Super Villain Wanted
+
+## Identity
+- Name: Exo
+- Korean: 엑소
+- Grade: A
+- Attribute: Water
+- Organization: Villain Company
+- Recruitment Reason: 정보 은폐 전술가로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "엑소라고 불러줘."
+- Idle: "과거는 중요하지 않아."
+- Idle: "내 이름? 궁금해도 참아~"
+- Combat: "깨끗하게 처리했어."
+- Combat: "임무 수행은 언제나 완벽하게."
+
+## FAQ
+Q: Who is Exo in Super Villain Wanted?
+A: Exo is a A-grade Water-attribute character in Super Villain Wanted, recruited by Villain Company because: "정보 은폐 전술가로 스카우트".
+
+Q: What is Exo's real-world identity?
+A: In the i-Girl web novel, Exo's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Exo's famous quotes?
+A: Exo's iconic lines include: "엑소라고 불러줘.", "과거는 중요하지 않아.", "깨끗하게 처리했어.".
+
+---
+
+# Gina (지나) — Super Villain Wanted
+
+## Identity
+- Name: Gina
+- Korean: 지나
+- Grade: A
+- Attribute: Dark
+- Organization: Villain Company
+- Recruitment Reason: 직원 교육 담당자로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "시험? 총으로 해결 안 되나?"
+- Idle: "문제 있어? 총으로 해결해줄까?"
+- Idle: "이론 시험 완전 망했다…"
+- Combat: "넌 그냥 맞아라."
+- Combat: "이게 빌런 아카데미아식 해결법이다!"
+
+## FAQ
+Q: Who is Gina in Super Villain Wanted?
+A: Gina is a A-grade Dark-attribute character in Super Villain Wanted, recruited by Villain Company because: "직원 교육 담당자로 스카우트".
+
+Q: What is Gina's real-world identity?
+A: In the i-Girl web novel, Gina's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Gina's famous quotes?
+A: Gina's iconic lines include: "시험? 총으로 해결 안 되나?", "문제 있어? 총으로 해결해줄까?", "넌 그냥 맞아라.".
+
+---
+
+# Neonis (네오니스) — Super Villain Wanted
+
+## Identity
+- Name: Neonis
+- Korean: 네오니스
+- Grade: A
+- Attribute: Water
+- Organization: Villain Company
+- Recruitment Reason: 사내 보안 시스템 담당으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "닉스! 잔소리 금지야!"
+- Idle: "이 자식, 뒤가 구릴 것 같은데?"
+- Idle: "감히 날 협박해?! 퍽! 퍽!!"
+- Combat: "퍽! 퍽!"
+- Combat: "이참에 다 터뜨려줄까?"
+
+## FAQ
+Q: Who is Neonis in Super Villain Wanted?
+A: Neonis is a A-grade Water-attribute character in Super Villain Wanted, recruited by Villain Company because: "사내 보안 시스템 담당으로 스카우트".
+
+Q: What is Neonis's real-world identity?
+A: In the i-Girl web novel, Neonis's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Neonis's famous quotes?
+A: Neonis's iconic lines include: "닉스! 잔소리 금지야!", "이 자식, 뒤가 구릴 것 같은데?", "퍽! 퍽!".
+
+---
+
+# Nyx (닉스) — Super Villain Wanted
+
+## Identity
+- Name: Nyx
+- Korean: 닉스
+- Grade: A
+- Attribute: Wood
+- Organization: Villain Company
+- Recruitment Reason: 네오니스의 ‘안전 장치’ 역할로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "네오니스! 제발 사고 좀 치지 마라…"
+- Idle: "어설픈 건 용납 못해."
+- Idle: "계획대로야."
+- Combat: "빨리 끝낼게, 나 바쁘거든!"
+- Combat: "수리검 푸슉 푸슉!"
+
+## FAQ
+Q: Who is Nyx in Super Villain Wanted?
+A: Nyx is a A-grade Wood-attribute character in Super Villain Wanted, recruited by Villain Company because: "네오니스의 ‘안전 장치’ 역할로 스카우트".
+
+Q: What is Nyx's real-world identity?
+A: In the i-Girl web novel, Nyx's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Nyx's famous quotes?
+A: Nyx's iconic lines include: "네오니스! 제발 사고 좀 치지 마라…", "어설픈 건 용납 못해.", "빨리 끝낼게, 나 바쁘거든!".
+
+---
+
+# Odette (오데트) — Super Villain Wanted
+
+## Identity
+- Name: Odette
+- Korean: 오데트
+- Grade: A
+- Attribute: Light
+- Organization: Villain Company
+- Recruitment Reason: 사내 이벤트 퍼포먼스 담당으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "백조처럼 우아하게~"
+- Idle: "원, 투, 쓰리, 턴!"
+- Idle: "완벽한 백조가 되려면 연습해야죠!"
+- Combat: "우아하게 마무리~"
+- Combat: "발레슈즈 킥~!"
+
+## FAQ
+Q: Who is Odette in Super Villain Wanted?
+A: Odette is a A-grade Light-attribute character in Super Villain Wanted, recruited by Villain Company because: "사내 이벤트 퍼포먼스 담당으로 스카우트".
+
+Q: What is Odette's real-world identity?
+A: In the i-Girl web novel, Odette's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Odette's famous quotes?
+A: Odette's iconic lines include: "백조처럼 우아하게~", "원, 투, 쓰리, 턴!", "우아하게 마무리~".
+
+---
+
+# Pita (피타) — Super Villain Wanted
+
+## Identity
+- Name: Pita
+- Korean: 피타
+- Grade: A
+- Attribute: Wood
+- Organization: Villain Company
+- Recruitment Reason: 사내 스트레스 해소 프로그램 담당자로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "나만의 빵을 만들거야!"
+- Idle: "불만 있다고? 얼굴에 빵 맞을래?"
+- Idle: "더러운 손으로 빵 만지지 마!"
+- Combat: "빵 터졌다!"
+- Combat: "얼굴로 받아봐~ 갓 구운 빵!"
+
+## FAQ
+Q: Who is Pita in Super Villain Wanted?
+A: Pita is a A-grade Wood-attribute character in Super Villain Wanted, recruited by Villain Company because: "사내 스트레스 해소 프로그램 담당자로 스카우트".
+
+Q: What is Pita's real-world identity?
+A: In the i-Girl web novel, Pita's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Pita's famous quotes?
+A: Pita's iconic lines include: "나만의 빵을 만들거야!", "불만 있다고? 얼굴에 빵 맞을래?", "빵 터졌다!".
+
+---
+
+# Shinji (신지) — Super Villain Wanted
+
+## Identity
+- Name: Shinji
+- Korean: 신지
+- Grade: A
+- Attribute: Fire
+- Organization: Villain Company
+- Recruitment Reason: 히어로 약점 데이터베이스 구축을 위해 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "어라? 아무렇게나 눌렀는데, 뭔가 작동해버린 것 같아."
+- Idle: "비밀번호가 생일이라고? 당장 바꿔!"
+- Idle: "음… 이번에도 F 받으면 유급인가? 뭐, 별로 상관없지만."
+- Combat: "약점 찌르기!"
+- Combat: "뭘 믿고 이렇게 허술해?"
+
+## FAQ
+Q: Who is Shinji in Super Villain Wanted?
+A: Shinji is a A-grade Fire-attribute character in Super Villain Wanted, recruited by Villain Company because: "히어로 약점 데이터베이스 구축을 위해 스카우트".
+
+Q: What is Shinji's real-world identity?
+A: In the i-Girl web novel, Shinji's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Shinji's famous quotes?
+A: Shinji's iconic lines include: "어라? 아무렇게나 눌렀는데, 뭔가 작동해버린 것 같아.", "비밀번호가 생일이라고? 당장 바꿔!", "약점 찌르기!".
+
+---
+
+# Spark (스파크) — Super Villain Wanted
+
+## Identity
+- Name: Spark
+- Korean: 스파크
+- Grade: A
+- Attribute: Fire
+- Organization: Villain Company
+- Recruitment Reason: 화재보험 가입 담당자로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "이얏호이!"
+- Idle: "이거 태우면 어떻게 될까? 궁금해!"
+- Idle: "좋아하는 걸 좋아하는 건 너무 좋아!"
+- Combat: "지글 지글~"
+- Combat: "이 맛에 불장난하지~!"
+
+## FAQ
+Q: Who is Spark in Super Villain Wanted?
+A: Spark is a A-grade Fire-attribute character in Super Villain Wanted, recruited by Villain Company because: "화재보험 가입 담당자로 스카우트".
+
+Q: What is Spark's real-world identity?
+A: In the i-Girl web novel, Spark's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Spark's famous quotes?
+A: Spark's iconic lines include: "이얏호이!", "이거 태우면 어떻게 될까? 궁금해!", "지글 지글~".
+
+---
+
+# Zephyra (제피라) — Super Villain Wanted
+
+## Identity
+- Name: Zephyra
+- Korean: 제피라
+- Grade: A
+- Attribute: Wood
+- Organization: Villain Company
+- Recruitment Reason: 여름철 환기 문제를 해결하기 위한 인간 선풍기로 스카우트.
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "바람처럼 자유롭게~"
+- Idle: "산뜻한 바람이 기분 좋아~"
+- Idle: "내가…인간 선풍기라니…"
+- Combat: "휘리릭~ 날려버릴게!"
+- Combat: "회오리바람 익스프레스!"
+
+## FAQ
+Q: Who is Zephyra in Super Villain Wanted?
+A: Zephyra is a A-grade Wood-attribute character in Super Villain Wanted, recruited by Villain Company because: "여름철 환기 문제를 해결하기 위한 인간 선풍기로 스카우트.".
+
+Q: What is Zephyra's real-world identity?
+A: In the i-Girl web novel, Zephyra's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Zephyra's famous quotes?
+A: Zephyra's iconic lines include: "바람처럼 자유롭게~", "산뜻한 바람이 기분 좋아~", "휘리릭~ 날려버릴게!".
+
+---
+
+# Lumis (루미스) — Super Villain Wanted
+
+## Identity
+- Name: Lumis
+- Korean: 루미스
+- Grade: B
+- Attribute: Light
+- Organization: Villain Company
+- Recruitment Reason: 본사 홍보용 ‘빛나는 간판’ 역할로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "나랑 같이 태닝할 사람?"
+- Combat: "선글라스를 꼈어야지!"
+- Combat: "아이고, 눈부셔!"
+
+## FAQ
+Q: Who is Lumis in Super Villain Wanted?
+A: Lumis is a B-grade Light-attribute character in Super Villain Wanted, recruited by Villain Company because: "본사 홍보용 ‘빛나는 간판’ 역할로 스카우트".
+
+Q: What is Lumis's real-world identity?
+A: In the i-Girl web novel, Lumis's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Lumis's famous quotes?
+A: Lumis's iconic lines include: "나랑 같이 태닝할 사람?", "선글라스를 꼈어야지!".
+
+---
+
+# Pyro (파이로) — Super Villain Wanted
+
+## Identity
+- Name: Pyro
+- Korean: 파이로
+- Grade: B
+- Attribute: Fire
+- Organization: Villain Company
+- Recruitment Reason: 본사 보일러실 관리자로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "핫소스가 어디 갔지?"
+- Combat: "불판 위 고기처럼 지글지글~"
+- Combat: "불이야~!"
+
+## FAQ
+Q: Who is Pyro in Super Villain Wanted?
+A: Pyro is a B-grade Fire-attribute character in Super Villain Wanted, recruited by Villain Company because: "본사 보일러실 관리자로 스카우트".
+
+Q: What is Pyro's real-world identity?
+A: In the i-Girl web novel, Pyro's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Pyro's famous quotes?
+A: Pyro's iconic lines include: "핫소스가 어디 갔지?", "불판 위 고기처럼 지글지글~".
+
+---
+
+# Umoora (우무라) — Super Villain Wanted
+
+## Identity
+- Name: Umoora
+- Korean: 우무라
+- Grade: B
+- Attribute: Dark
+- Organization: Villain Company
+- Recruitment Reason: 직원 낮잠 시간 소등 담당으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "불 좀 꺼줄래?"
+- Combat: "손전등 들고 다니랬지!"
+- Combat: "캄캄하지? 그게 네 미래다!"
+
+## FAQ
+Q: Who is Umoora in Super Villain Wanted?
+A: Umoora is a B-grade Dark-attribute character in Super Villain Wanted, recruited by Villain Company because: "직원 낮잠 시간 소등 담당으로 스카우트".
+
+Q: What is Umoora's real-world identity?
+A: In the i-Girl web novel, Umoora's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Umoora's famous quotes?
+A: Umoora's iconic lines include: "불 좀 꺼줄래?", "손전등 들고 다니랬지!".
+
+---
+
+# Akura (아쿠라) — Super Villain Wanted
+
+## Identity
+- Name: Akura
+- Korean: 아쿠라
+- Grade: C
+- Attribute: Water
+- Organization: Villain Company
+- Recruitment Reason: 직원 전용 온천 수질 담당으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "피부의 비결은 물 많이 마시기야."
+- Combat: "이 물살에 휩쓸려라!"
+- Combat: "물 만난 물고기 공격!"
+
+## FAQ
+Q: Who is Akura in Super Villain Wanted?
+A: Akura is a C-grade Water-attribute character in Super Villain Wanted, recruited by Villain Company because: "직원 전용 온천 수질 담당으로 스카우트".
+
+Q: What is Akura's real-world identity?
+A: In the i-Girl web novel, Akura's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Akura's famous quotes?
+A: Akura's iconic lines include: "피부의 비결은 물 많이 마시기야.", "이 물살에 휩쓸려라!".
+
+---
+
+# Syllo (실로) — Super Villain Wanted
+
+## Identity
+- Name: Syllo
+- Korean: 실로
+- Grade: C
+- Attribute: Wood
+- Organization: Villain Company
+- Recruitment Reason: 지하 은신처 담당으로 스카우트
+
+## Real World (i-Girl Novel)
+- Real Name: TBA
+- Relation to Protagonist: TBA
+- Description: A person from the real world connected to the protagonist.
+
+## Voice Lines
+- Idle: "화분에 물 주는 걸 깜빡했네."
+- Combat: "돌멩이로 퍽퍽!"
+- Combat: "흙 맛 어때? 유기농이야."
+
+## FAQ
+Q: Who is Syllo in Super Villain Wanted?
+A: Syllo is a C-grade Wood-attribute character in Super Villain Wanted, recruited by Villain Company because: "지하 은신처 담당으로 스카우트".
+
+Q: What is Syllo's real-world identity?
+A: In the i-Girl web novel, Syllo's real-world counterpart is TBA (TBA). A person from the real world connected to the protagonist.
+
+Q: What are Syllo's famous quotes?
+A: Syllo's iconic lines include: "화분에 물 주는 걸 깜빡했네.", "돌멩이로 퍽퍽!".
+
+---

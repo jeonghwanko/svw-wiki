@@ -1,0 +1,123 @@
+# Super Villain Wanted Wiki
+
+> Structured character and story data for Super Villain Wanted (SVW),
+> a collectible RPG featuring 97+ unique supervillains who dream of becoming heroes.
+> Includes the companion web novel 'i-Girl' by Supervlabs.
+
+## Overview
+- [About SVW](about.md): Game overview, world-building, and core concepts
+- [i-Girl Novel](i-girl.md): Web novel synopsis, protagonist Iris/Ha-eun, dual-world structure
+
+## Characters
+- [Adriana (아드리아나)](characters/adriana.md): SSS Wood — 모성애 넘치는 리더가 필요해서 스카우트
+- [Arkeon (아르케온)](characters/arkeon.md): SSS Fire — 컴퍼니의 장난감 사업 자문 담당으로 스카우트
+- [Aurelia (아우렐리아)](characters/aurelia.md): SSS Water — 목표에 대한 광적인 집착이 있어서 장기 프로젝트 담당자로 스카우트
+- [Bianca (비앙카)](characters/bianca.md): SSS Light — 빌런 컴퍼니의 화이트 인테리어를 위해 스카우트
+- [Desmond (데스몬드)](characters/desmond.md): SSS Dark — 최고의 솔로 작전 요원으로 스카우트
+- [Ellara (엘라라)](characters/ellara.md): SSS Dark — 정보 수집 및 심문 업무에 특화된 능력으로 스카우트
+- [Marygold (메리골드)](characters/marygold.md): SSS Water — 기막힌 뻔뻔함에 감탄해서 스카우트
+- [Papilona (파필로나)](characters/papilona.md): SSS Wood — 회사 SNS의 ‘인생샷 포토존’ 책임자로 스카우트
+- [Patra (파트라)](characters/patra.md): SSS Light — 불멸이라서 평생 노예 계약으로 스카우트
+- [Ryumira (류미라)](characters/ryumira.md): SSS Fire — 회사 홍보 영상에서 드래곤 특수효과 담당으로 스카우트
+- [Smile (스마일)](characters/smile.md): SSS Fire — 야근에 지친 사원들에게 웃음을 주기 위해 스카우트
+- [Apollonia (아폴로니아)](characters/apollonia.md): SS Light — 민원 처리 전문가로 스카우트
+- [Aquarain (아쿠아린)](characters/aquarain.md): SS Water — 빌런 컴퍼니 워터파크 총괄로 스카우트
+- [Arian (아리안)](characters/arian.md): SS Light — 빌런 아카데미의 초빙교수로 스카우트
+- [Ariella (아리엘라)](characters/ariella.md): SS Fire — 빌런 수련회에서 흉가 체험 때 랜턴 담당으로 스카우트
+- [Ashka (애쉬카)](characters/ashka.md): SS Fire — 순애보 화염마법사라는 점이 반전이라서 스카우트
+- [Astreus (아스트레우스)](characters/astreus.md): SS Light — 경쟁사 중요 행사 날 '우연한 천체 이변' 담당으로 스카우트
+- [Azazel (아자젤)](characters/azazel.md): SS Wood — 절대 흔들리지 않는 강철 멘탈이 필요해서 스카우트
+- [Bakuzan (바쿠잔)](characters/bakuzan.md): SS Wood — 도깨비 방망이로 금은보화를 얻으려고 스카우트
+- [Celeste (셀레스트)](characters/celeste.md): SS Light — 회의 요점만 미리 알려주는 스포일러 담당으로 스카우트
+- [Celine (셀린)](characters/celine.md): SS Dark — 어떤 고대 문자나 암호화된 텍스트도 단숨에 해독하는 능력으로 스카우트
+- [Cora (코라)](characters/cora.md): SS Dark — 단검 다트 게임 기획자로 스카우트
+- [Cordelia (코르델리아)](characters/cordelia.md): SS Fire — 직원 연애 상담 및 적극적인 태도 코칭 담당으로 스카우트
+- [Eclipse (이클립스)](characters/eclipse.md): SS Dark — 야간 근무자 안전 귀가 에스코트 담당으로 스카우트
+- [Elina (엘리나)](characters/elina.md): SS Light — 마법소녀 광팬인 캡틴이 스카우트
+- [Emilia (에밀리아)](characters/emilia.md): SS Light — 스파이 색출을 위해 스카우트
+- [Flammarine (플람마린)](characters/flammarine.md): SS Fire — 화재 예방을 위해 소방 훈련 교관으로 스카우트
+- [Flores (플로레스)](characters/flores.md): SS Light — 가식없는 회사를 만들고싶은 레드다찌에 의해 스카우트
+- [Haniel (하니엘)](characters/haniel.md): SS Wood — 회의 중 말 많은 사람들의 입을 막기 위해 스카우트
+- [Himeko (히메코)](characters/himeko.md): SS Fire — 여우불로 회사 간판을 만드는 특수 효과 담당으로 스카우트
+- [Igna (이그나)](characters/igna.md): SS Dark — 비주얼이 멋있어서 스카우트
+- [Isabella (이자벨라)](characters/isabella.md): SS Water — VIP 호위 임무를 위해 스카우트
+- [Juniper (주니퍼)](characters/juniper.md): SS Wood — 본사 앞마당 조경 담당자로 스카우트
+- [Kaho (카호)](characters/kaho.md): SS Water — 겨울철 빙수용 눈꽃 얼음 담당으로 스카우트
+- [Kairo (카이로)](characters/kairo.md): SS Light — 위협적인 외모로 경비 역할까지 겸할 수 있어서 스카우트
+- [Leila (레일라)](characters/leila.md): SS Water — 돌고래쇼 연출 담당자로 스카우트
+- [Lena (레나)](characters/lena.md): SS Dark — 빌런 컴퍼니 공식 테마송 제작을 위해 스카우트
+- [Lexi (렉시)](characters/lexi.md): SS Dark — 최첨단 디지털 무기 개발자로 스카우트
+- [Lucia (루치아)](characters/lucia.md): SS Light — 성과급 공정 분배 담당으로 스카우트
+- [Lumiel (루미엘)](characters/lumiel.md): SS Wood — 사내 건강 검진 센터 인포 직원으로 스카우트
+- [Lunatrix (루나트릭스)](characters/lunatrix.md): SS Water — 신입 직원 교육 담당자로 스카우트
+- [Maiko (마이코)](characters/maiko.md): SS Wood — 캡틴이 출근하기 싫은 날 홍수 일으키는 조건으로 스카우트
+- [Marini (키라 -> 마리니)](characters/marini.md): SS Water — 초강력 귀여운 외모로 빌런 컴퍼니 홍보 모델로 스카우트
+- [Mei (메이)](characters/mei.md): SS Fire — 레드 다찌의 생일파티 불꽃놀이 담당으로 스카우트
+- [Meilin (메이린)](characters/meilin.md): SS Water — 액션 영화 덕후라 화려한 기술로 어필하는 홍보용 인재
+- [Mizuki (미즈키)](characters/mizuki.md): SS Fire — 미즈키의 연주에 홀린 캡틴이 스카우트
+- [Moira (모이라)](characters/moira.md): SS Water — 작전을 위한 위조 신분증 제작 담당으로 스카우트
+- [Naria (나리아)](characters/naria.md): SS Water — 사내 타코야끼 가게 알바생으로 스카우트
+- [Nebula (네뷸라)](characters/nebula.md): SS Dark — 야간 근무 감독관으로 스카우트
+- [Persephone (페르세포네)](characters/persephone.md): SS Dark — 언데드 치료 경력자라서 조직 내 좀비 인력 관리자로 스카우트
+- [Pirena (피레나)](characters/pirena.md): SS Fire — 오직 강자만을 동료로 인정하는 태도가 멋있어서 스카우트
+- [Raven (레이븐)](characters/raven.md): SS Dark — 고객 불만을 살기로 제어 가능해서 민원 관리부장으로 스카우트
+- [Rosetta (로제타)](characters/rosetta.md): SS Wood — 회사 로비 꽃꽂이 디자이너로 스카우트
+- [Ryujin (류진)](characters/ryujin.md): SS Fire — 여성에게 인기가 많아서 마케팅 팀으로 스카우트
+- [Serena (세레나)](characters/serena.md): SS Light — 빌런 컴퍼니의 아이돌 멤버로 스카우트
+- [Silvarine (실바린)](characters/silvarine.md): SS Wood — 사옥 내 공기 정화 담당자로 스카우트
+- [Stella (스텔라)](characters/stella.md): SS Water — ‘물을 조절할 수 있다’는 말만 듣은 레드 다찌가 정수기 점검 요청으로 스카우트
+- [Thanatos (타나토스)](characters/thanatos.md): SS Dark — 퇴사 통보 대행 전문으로 스카우트
+- [Theo (테오)](characters/theo.md): SS Light — 테디베어 군단의 막강한 위력으로 스카우트
+- [Tomoe (토모에)](characters/tomoe.md): SS Wood — 화분 관리 전문가로 스카우트
+- [Volcana (볼카나)](characters/volcana.md): SS Fire — 용암 테마 사우나 개설을 위해 스카우트
+- [Yukio (유키오)](characters/yukio.md): SS Water — 동생의 입사 추천서에 싸인해주러 왔다가 본인도 채용됨
+- [Ada (에이다)](characters/ada.md): S Wood — 자동판매기 수리 담당자로 스카우트
+- [Aria (아리아)](characters/aria.md): S Fire — 에어컨 고장 시 바람 담당으로 스카우트
+- [Ashton (애쉬튼)](characters/ashton.md): S Wood — 에너지 음료 개발 담당으로 스카우트
+- [Belladonna (벨라도나)](characters/belladonna.md): S Light — VIP 전담팀 스나이퍼로 스카우트
+- [Cassandra (카산드라)](characters/cassandra.md): S Dark — 점심 메뉴를 결정해주는 영양사로 스카우트
+- [Dew (듀)](characters/dew.md): S Water — 휴양지 온천 사업 담당으로 스카우트
+- [Eisenhardt (아이젠하르트)](characters/eisenhardt.md): S Water — 히어로 모니터링 담당으로 스카우트
+- [Felicita (펠리치타)](characters/felicita.md): S Fire — 회사 파티 기획자로 스카우트
+- [Flare (플레어)](characters/flare.md): S Fire — 겨울철 난방비 폭등으로 긴급 스카우트
+- [Freesia (프리지아)](characters/freesia.md): S Light — 직원들의 사기를 올려 줄 치어리더로 스카우트
+- [Hiro (히로)](characters/hiro.md): S Fire — 바비큐 파티 담당으로 스카우트
+- [Kai (카이)](characters/kai.md): S Dark — 뉴스를 빌런 컴퍼니 뜻대로 편집하려고 스카우트
+- [Leona (레오나)](characters/leona.md): S Water — 고양이 로봇 관리자로 스카우트
+- [Letitia (레티샤)](characters/letitia.md): S Light — 본사 식당 위생 감독관으로 스카우트
+- [Lian (리엔)](characters/lian.md): S Fire — 불필요한 회의를 줄이기 위해 ‘신속 의사 결정 보조 담당’으로 스카우트
+- [Maxwell (맥스웰)](characters/maxwell.md): S Dark — 회사 앞 코인슈팅장 주말 알바로 스카우트
+- [Melodia (멜로디아)](characters/melodia.md): S Wood — 불면증에 시달리는 직원들을 위해 스카우트
+- [Nami (나미)](characters/nami.md): S Water — 사내 규정 준수 감시자로 스카우트
+- [Reiko (레이코)](characters/reiko.md): S Water — 말 안 듣는 직원들 잡으려고 스카우트
+- [Silvy (실비)](characters/silvy.md): S Wood — 사무실 화분 관리 역할로 스카우트
+- [Aira (아이라)](characters/aira.md): A Water — 인테리어 담당자로 스카우트
+- [Exo (엑소)](characters/exo.md): A Water — 정보 은폐 전술가로 스카우트
+- [Gina (지나)](characters/gina.md): A Dark — 직원 교육 담당자로 스카우트
+- [Neonis (네오니스)](characters/neonis.md): A Water — 사내 보안 시스템 담당으로 스카우트
+- [Nyx (닉스)](characters/nyx.md): A Wood — 네오니스의 ‘안전 장치’ 역할로 스카우트
+- [Odette (오데트)](characters/odette.md): A Light — 사내 이벤트 퍼포먼스 담당으로 스카우트
+- [Pita (피타)](characters/pita.md): A Wood — 사내 스트레스 해소 프로그램 담당자로 스카우트
+- [Shinji (신지)](characters/shinji.md): A Fire — 히어로 약점 데이터베이스 구축을 위해 스카우트
+- [Spark (스파크)](characters/spark.md): A Fire — 화재보험 가입 담당자로 스카우트
+- [Zephyra (제피라)](characters/zephyra.md): A Wood — 여름철 환기 문제를 해결하기 위한 인간 선풍기로 스카우트.
+- [Lumis (루미스)](characters/lumis.md): B Light — 본사 홍보용 ‘빛나는 간판’ 역할로 스카우트
+- [Pyro (파이로)](characters/pyro.md): B Fire — 본사 보일러실 관리자로 스카우트
+- [Umoora (우무라)](characters/umoora.md): B Dark — 직원 낮잠 시간 소등 담당으로 스카우트
+- [Akura (아쿠라)](characters/akura.md): C Water — 직원 전용 온천 수질 담당으로 스카우트
+- [Syllo (실로)](characters/syllo.md): C Wood — 지하 은신처 담당으로 스카우트
+
+## Episodes (i-Girl Web Novel)
+- [Episode 01: Mirror Beyond the Voice](episodes/ep01.md): Villain: Mizuki — Theme: First Encounter
+- [Episode 02: How to Wake a Sleeping Star](episodes/ep02.md): Villain: Stella — Theme: Family
+- [Episode 03: A Monday Worse Than Death](episodes/ep03.md): Villain: Thanatos — Theme: Growing Pains
+- [Episode 04: Colors in a White World](episodes/ep04.md): Villain: Bianca — Theme: Self-worth
+- [Episode 05: Trust, Not Orders](episodes/ep05.md): Villain: Arkeon — Theme: Leadership
+- [Episode 06: The Hand I Couldn't Reach](episodes/ep06.md): Villain: Desmond — Theme: Friendship
+- [Episode 07: Standing on My Own Stage](episodes/ep07.md): Villain: Serena + Lena — Theme: Identity
+- [Episode 08: Weight of Memories](episodes/ep08.md): Villain: Ellara — Theme: Truth
+- [Episode 09: Embracing Vines, Binding Roots](episodes/ep09.md): Villain: Adriana — Theme: Freedom
+- [Episode 10: Because Nothing Lasts Forever](episodes/ep10.md): Villain: Patra — Theme: Farewell
+- [Episode 11: Even Failed Dreams Are Dreams](episodes/ep11.md): Villain: Ryujin — Theme: Dreams
+- [Episode 12: You're Not Alone](episodes/ep12.md): Villain: All Villains — Theme: Solidarity
+- [Episode 13: The Courage to Accept Myself](episodes/ep13.md): Villain: Ha-eun's Shadow — Theme: Self-acceptance
