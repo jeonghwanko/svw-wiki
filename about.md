@@ -11,6 +11,11 @@ Super Villain Wanted (Korean: 슈퍼빌런 원티드) is a mobile collectible RP
 - Attributes: Fire, Water, Dark, Light, Wood
 - Grades: SSS (legendary), SS (rare), S (mid), A, B, C
 
+## Download
+- Google Play (Android): https://play.google.com/store/apps/details?id=io.supervlabs.catchandtame.gl
+- App Store (iOS): https://apps.apple.com/us/app/supervillain-wanted/id6504154223
+- Official Website: https://supervlabs.io/
+
 ## What is i-Girl?
 "Super Villain Wanted: i-Girl" (아이소녀) is a companion web novel. It tells the story of Ha-eun (이하은), an introverted high school girl who discovers she can travel to a parallel world where the people around her become the superpowered villains of Villain Company.
 

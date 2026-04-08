@@ -4,6 +4,12 @@
 > a collectible RPG featuring 97+ unique supervillains who dream of becoming heroes.
 > Includes the companion web novel 'i-Girl' by Supervlabs.
 
+## Download
+- Google Play: https://play.google.com/store/apps/details?id=io.supervlabs.catchandtame.gl
+- App Store: https://apps.apple.com/us/app/supervillain-wanted/id6504154223
+- Official: https://supervlabs.io/
+- Fandom Wiki: https://supervillain-wanted.fandom.com
+
 ## Overview
 - [About SVW](about.md): Game overview, world-building, and core concepts
 - [i-Girl Novel](i-girl.md): Web novel synopsis, protagonist Iris/Ha-eun, dual-world structure
