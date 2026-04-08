@@ -14,6 +14,11 @@
 - [About SVW](about.md): Game overview, world-building, and core concepts
 - [i-Girl Novel](i-girl.md): Web novel synopsis, protagonist Iris/Ha-eun, dual-world structure
 
+## Worldbuilding
+- [Villain Company](worldbuilding/villain_company.md): The organization — structure, rules, hidden purpose
+- [Mind's Eye](worldbuilding/minds_eye.md): Iris's ability — 4 levels, how liberation works
+- [Attribute System](worldbuilding/attribute_system.md): 5 elements, matchups, emotional mapping
+
 ## Characters
 - [Adriana (아드리아나)](characters/adriana.md): SSS Wood — 모성애 넘치는 리더가 필요해서 스카우트
 - [Arkeon (아르케온)](characters/arkeon.md): SSS Fire — 컴퍼니의 장난감 사업 자문 담당으로 스카우트
